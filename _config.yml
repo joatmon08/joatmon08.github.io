@@ -4,7 +4,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: joatmon08
 github_username:  joatmon08
 search_enabled: false
-layout: splash
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
