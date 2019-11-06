@@ -1,7 +1,6 @@
 ---
+layout: single
 title: Writing
-has_children: false
-nav_order: 3
 ---
 
 # Writing

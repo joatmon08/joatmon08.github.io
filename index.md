@@ -1,9 +1,6 @@
 ---
-layout: default
+layout: single
 title: Home
-nav_order: 1
-description: ""
-permalink: /
 ---
 
 I use this site to aggregate my some of the things I am writing, speaking, or coding
@@ -14,3 +11,4 @@ This site contains my:
 - Speaker biography
 - Upcoming events
 - Slides, demos, and/or recordings
+
