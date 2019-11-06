@@ -6,7 +6,8 @@ references about me.
 | Date        | Conference/MeetUp  | Title | Time | Room |
 | ----------- | ----------- | ------- | ---- |  ------- |
 | 11.07.2019 | O'Reilly Velocity (Berlin) | Test-driven development (TDD) for Infrastructure | 16:45 | Hall A4 |
-| 11.03.2019 | AWS Re:Invent | NET211-S Service mesh across hybrid infrastructure | 13:45 | Bellagio, Level 1, Monet 3-T2-S |
+| 12.03.2019 | AWS Re:Invent | NET211-S Service mesh across hybrid infrastructure | 13:45 | Bellagio, Level 1, Monet 3-T2-S |
+| 02.20.2020 | Devnexus | Stretching the Service Mesh from Java to Beyond |  |  |
 
 
 # [Previous](#slides)
