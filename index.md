@@ -17,7 +17,8 @@ Find me on:
 | Nov 07, 2019 | O'Reilly Velocity (Berlin) | Test-driven development (TDD) for Infrastructure | 16:45 | Hall A4 |
 | Dec 03, 2019 | AWS Re:Invent | NET211-S Service mesh across hybrid infrastructure | 13:45 | Bellagio, Level 1, Monet 3-T2-S |
 
-### Previous
+
+# [Previous](#slides)
 
 | Date        | Conference/MeetUp  | Slides | Demo | Recording |
 | ----------- | ----------- | ------- | ---- |  ------- | --- | --- | --- |
