@@ -1,34 +1,23 @@
-I use this site to aggregate my some of the things I am writing, speaking, or coding
-at any given point in time.
-
-This site contains my:
-
-- Speaker biography
-- Upcoming events
-- Slides, demos, and/or recordings
-
 # About Me
-
-## Speaker Biography
 
 As a developer advocate for HashiCorp, Rosemary works to bridge the technical and cultural barriers between infrastructure engineers and application developers. She has a fascination for solving intractable problems with code, whether it be helping an infrastructure engineer learn to code or an application developer troubleshoot infrastructure failures. She also interfaces with vendors, clients, startups, and open source projects to find creative software solutions for infrastructure. When she is not drawing on whiteboards, Rosemary valiantly attempts to hack stacks of various infrastructure systems on her laptop while foraging for tasty victuals around the world.
 
-## Social Media
+Find me on:
 
 - Twitter: @joatmon08
 - Github: joatmon08
 - LinkedIn: linkedin.com/in/rosemarywang/
+- Twitch: joatmon08
 
-# Speaking
 
-## Upcoming
+# [Speaking](#speaking)
 
 | Date        | Conference/MeetUp  | Title | Time | Room |
 | ----------- | ----------- | ------- | ---- |  ------- |
 | Nov 07, 2019 | O'Reilly Velocity (Berlin) | Test-driven development (TDD) for Infrastructure | 16:45 | Hall A4 |
 | Dec 03, 2019 | AWS Re:Invent | NET211-S Service mesh across hybrid infrastructure | 13:45 | Bellagio, Level 1, Monet 3-T2-S |
 
-## Previous
+### Previous
 
 | Date        | Conference/MeetUp  | Slides | Demo | Recording |
 | ----------- | ----------- | ------- | ---- |  ------- | --- | --- | --- |
