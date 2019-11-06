@@ -1,14 +1,8 @@
 title: Rosemary Wang
 description: About me, links to speaker slides and recordings.
 
-navbar-links:
-  About Me: "about"
-  Speaking: "speaking"
-  Writing: "writing"
-  Blog: "https://medium.com/@joatmon08"
-
 author:
-  name: Some Person
+  name: Rosemary Wang
 
 social-network-links:
   github: joatmon08
