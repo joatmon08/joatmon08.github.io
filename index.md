@@ -1,16 +1,7 @@
-# About Me
+An aggregated list of speaking engagements and other useful
+references about me.
 
-As a developer advocate for HashiCorp, Rosemary works to bridge the technical and cultural barriers between infrastructure engineers and application developers. She has a fascination for solving intractable problems with code, whether it be helping an infrastructure engineer learn to code or an application developer troubleshoot infrastructure failures. She also interfaces with vendors, clients, startups, and open source projects to find creative software solutions for infrastructure. When she is not drawing on whiteboards, Rosemary valiantly attempts to hack stacks of various infrastructure systems on her laptop while foraging for tasty victuals around the world.
-
-Find me on:
-
-- Twitter: @joatmon08
-- Github: joatmon08
-- LinkedIn: linkedin.com/in/rosemarywang/
-- Twitch: joatmon08
-
-
-# [Speaking](#speaking)
+# Up Next
 
 | Date        | Conference/MeetUp  | Title | Time | Room |
 | ----------- | ----------- | ------- | ---- |  ------- |
@@ -48,3 +39,13 @@ Other writing includes:
 - [Using the Kubernetes and Helm Providers with Terraform 0.12](https://www.hashicorp.com/blog/using-the-kubernetes-and-helm-providers-with-terraform-0-12/)
 - [20 Linux commands every sysadmin should know](https://opensource.com/article/17/7/20-sysadmin-commands)
 
+# Speaker Bio
+
+As a developer advocate for HashiCorp, Rosemary works to bridge the technical and cultural barriers between infrastructure engineers and application developers. She has a fascination for solving intractable problems with code, whether it be helping an infrastructure engineer learn to code or an application developer troubleshoot infrastructure failures. She also interfaces with vendors, clients, startups, and open source projects to find creative software solutions for infrastructure. When she is not drawing on whiteboards, Rosemary valiantly attempts to hack stacks of various infrastructure systems on her laptop while foraging for tasty victuals around the world.
+
+Find me on:
+
+- Twitter: @joatmon08
+- Github: joatmon08
+- LinkedIn: linkedin.com/in/rosemarywang/
+- Twitch: joatmon08
