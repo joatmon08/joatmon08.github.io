@@ -14,7 +14,7 @@ references about me.
 
 | Date        | Conference/MeetUp  | Slides | Demo | Recording |
 | ----------- | ----------- | ------- | ---- |  ------- | --- | --- | --- |
-| 11.07.2019 | O'Reilly Velocity (Berlin) | [Test-driven development (TDD) for Infrastructure](https://speakerdeck.com/joatmon08/) | [Demo](https://github.com/joatmon08/tdd-infrastructure) | |
+| 11.07.2019 | O'Reilly Velocity (Berlin) | [Test-driven development (TDD) for Infrastructure](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) | [Demo](https://github.com/joatmon08/tdd-infrastructure) | |
 | 11.04.2019 | Test in Production MeetUp (Berlin) | [Test in Production: Infrastructure Edition](https://speakerdeck.com/joatmon08/test-in-production-infrastructure-edition) | [Demo](https://github.com/joatmon08/test-in-production-for-infrastructure) | |
 | 10.23.2019 | DevOpsDaysPhilly | [Remote Desktop, Continuously Delivered](https://speakerdeck.com/joatmon08/remote-desktop-continuously-delivered) | [Demo](https://github.com/joatmon08/chrome-remote-desktop-pipeline) |  |
 | 10.21.2019 | Monitorama (Baltimore) | [What is Fitness Function-Driven Development for Operability?](https://speakerdeck.com/joatmon08/whats-fitness-function-driven-development-for-operability) | [Demo](https://github.com/joatmon08/2019-monitorama) | [Recording](https://vimeo.com/369642816) |
