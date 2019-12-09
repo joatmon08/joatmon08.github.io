@@ -7,14 +7,15 @@ references about me.
 
 | Date        | Conference/MeetUp  | Title | Time | Room |
 | ----------- | ----------- | ------- | ---- |  ------- |
-| 12.03.2019 | AWS Re:Invent | NET211-S Service mesh across hybrid infrastructure | 13:45 | Bellagio, Level 1, Monet 3-T2-S |
-| 02.20.2020 | Devnexus | Stretching the Service Mesh from Java to Beyond |  |  |
+| 02.21.2020 | Devnexus | [Stretching the Service Mesh from Java to Beyond](https://devnexus.com/presentations/4518/) | 1:10PM |  |
+| 02.28.2020 | DevOpsDays Charlotte | [Secrets (Management on Kubernetes) can be Fun](https://devopsdays.org/events/2020-charlotte/program/rosemary-wang)| 2:45PM |  |
 
 
 # [Previous](#slides)
 
 | Date        | Conference/MeetUp  | Slides | Demo | Recording |
 | ----------- | ----------- | ------- | ---- |  ------- | --- | --- | --- |
+| 12.03.2019 | AWS re:Invent | [NET211-S Service mesh across hybrid infrastructure](https://speakerdeck.com/joatmon08/net211-s-service-mesh-across-hybrid-infrastructure) | [Demo]() | |
 | 11.14.2019 | TechReckoning Fest 5 | Using Consul for Migrating Legacy to Kubernetes | [Demo](https://mesh.demo.gs) | [Recording](https://connect.techreckoning.com/techreckoning-fest-5/) |
 | 11.07.2019 | O'Reilly Velocity (Berlin) | [Test-driven development (TDD) for Infrastructure](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) | [Demo](https://github.com/joatmon08/tdd-infrastructure) | |
 | 11.04.2019 | Test in Production MeetUp (Berlin) | [Test in Production: Infrastructure Edition](https://speakerdeck.com/joatmon08/test-in-production-infrastructure-edition) | [Demo](https://github.com/joatmon08/test-in-production-for-infrastructure) | |
