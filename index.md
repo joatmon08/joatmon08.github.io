@@ -15,11 +15,11 @@ references about me.
 
 | Date        | Conference/MeetUp  | Slides | Demo | Recording |
 | ----------- | ----------- | ------- | ---- |  ------- | --- | --- | --- |
-| 12.03.2019 | AWS re:Invent | [NET211-S Service mesh across hybrid infrastructure](https://speakerdeck.com/joatmon08/net211-s-service-mesh-across-hybrid-infrastructure) | [Demo](https://github.com/hashicorp/demo-consul-cloud-map) | |
+| 12.03.2019 | AWS re:Invent | [NET211-S Service mesh across hybrid infrastructure](https://speakerdeck.com/joatmon08/net211-s-service-mesh-across-hybrid-infrastructure) | [Demo](https://github.com/hashicorp/demo-consul-cloud-map) | [Recording](https://www.youtube.com/watch?v=gks3lvZGjn4) |
 | 11.14.2019 | TechReckoning Fest 5 | Using Consul for Migrating Legacy to Kubernetes | [Demo](https://mesh.demo.gs) | [Recording](https://connect.techreckoning.com/techreckoning-fest-5/) |
 | 11.07.2019 | O'Reilly Velocity (Berlin) | [Test-driven development (TDD) for Infrastructure](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) | [Demo](https://github.com/joatmon08/tdd-infrastructure) | [Recording](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure) |
 | 11.04.2019 | Test in Production MeetUp (Berlin) | [Test in Production: Infrastructure Edition](https://speakerdeck.com/joatmon08/test-in-production-infrastructure-edition) | [Demo](https://github.com/joatmon08/test-in-production-for-infrastructure) | |
-| 10.23.2019 | DevOpsDaysPhilly | [Remote Desktop, Continuously Delivered](https://speakerdeck.com/joatmon08/remote-desktop-continuously-delivered) | [Demo](https://github.com/joatmon08/chrome-remote-desktop-pipeline) |  |
+| 10.23.2019 | DevOpsDaysPhilly | [Remote Desktop, Continuously Delivered](https://speakerdeck.com/joatmon08/remote-desktop-continuously-delivered) | [Demo](https://github.com/joatmon08/chrome-remote-desktop-pipeline) | [Recording](https://youtu.be/1MUWKTmAvo4) |
 | 10.21.2019 | Monitorama (Baltimore) | [What is Fitness Function-Driven Development for Operability?](https://speakerdeck.com/joatmon08/whats-fitness-function-driven-development-for-operability) | [Demo](https://github.com/joatmon08/2019-monitorama) | [Recording](https://vimeo.com/369642816) |
 | 10.14.2019 | All Things Open | [Everything-as-Code with Terraform](https://speakerdeck.com/joatmon08/everything-as-code-with-terraform) | [Demo](https://github.com/joatmon08/2019-demo-ato) | [Recording](https://www.youtube.com/watch?v=-4jWcw9tOVw) |
 | 10.02.2019 | Grace Hopper Celebration | [Building a Service Delivery Infrastructure](https://speakerdeck.com/joatmon08/building-a-service-delivery-infrastructure) |  |  |
