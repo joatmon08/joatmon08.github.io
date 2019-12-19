@@ -7,7 +7,6 @@ references about me.
 
 | Date        | Conference/MeetUp  | Title | Time | Room |
 | ----------- | ----------- | ------- | ---- |  ------- |
-| 12.18.2019 | WWCode Cloud Webinar | [Testing Infrastructure in Production with Terraform](https://zoom.us/webinar/register/WN_JL1t4-h1S0qpg_2Mk-px9g) | 12PM ET |  |
 | 02.21.2020 | Devnexus | [Stretching the Service Mesh from Java to Beyond](https://devnexus.com/presentations/4518/) | 1:10PM |  |
 | 02.28.2020 | DevOpsDays Charlotte | [Secrets (Management on Kubernetes) can be Fun](https://devopsdays.org/events/2020-charlotte/program/rosemary-wang)| 2:45PM |  |
 
@@ -16,6 +15,7 @@ references about me.
 
 | Date        | Conference/MeetUp  | Slides | Demo | Recording |
 | ----------- | ----------- | ------- | ---- |  ------- | --- | --- | --- |
+| 12.18.2019 | WWCode Cloud Webinar | [Testing Infrastructure in Production with Terraform](https://speakerdeck.com/joatmon08/testing-infrastructure-in-production-with-terraform) |  |  |
 | 12.13.2019 | DevOps.com Webinar | [Best Practices of Infrastructure-as-Code with Terraform](https://speakerdeck.com/joatmon08/best-practices-of-infrastructure-as-code-with-terraform) |  | [Recording](https://webinars.devops.com/best-practices-of-infrastructure-as-code-with-terraform) |
 | 12.03.2019 | AWS re:Invent | [NET211-S Service mesh across hybrid infrastructure](https://speakerdeck.com/joatmon08/net211-s-service-mesh-across-hybrid-infrastructure) | [Demo](https://github.com/hashicorp/demo-consul-cloud-map) | [Recording](https://www.youtube.com/watch?v=gks3lvZGjn4) |
 | 11.14.2019 | TechReckoning Fest 5 | Using Consul for Migrating Legacy to Kubernetes | [Demo](https://mesh.demo.gs) | [Recording](https://connect.techreckoning.com/techreckoning-fest-5/) |
@@ -26,6 +26,7 @@ references about me.
 | 10.14.2019 | All Things Open | [Everything-as-Code with Terraform](https://speakerdeck.com/joatmon08/everything-as-code-with-terraform) | [Demo](https://github.com/joatmon08/2019-demo-ato) | [Recording](https://www.youtube.com/watch?v=-4jWcw9tOVw) |
 | 10.02.2019 | Grace Hopper Celebration | [Building a Service Delivery Infrastructure](https://speakerdeck.com/joatmon08/building-a-service-delivery-infrastructure) |  |  |
 | 10.01.2019 | Women Who Code NYC | [Hands-on with Infrastructure-as-Code](https://speakerdeck.com/joatmon08/hands-on-with-infrastructure-as-code) |  |  |
+| 09.29.2019 | .NET Conf | [Stretching the Service Mesh](https://github.com/dotnet-presentations/dotnetconf2019/blob/master/Technical/Stretching%20the%20Service%20Mesh.pdf) | [Demo](https://github.com/joatmon08/dotnet-service-mesh-example) |  |
 | 08.28.2019 | HashiCorp Webinar | Terraform Cloud GA Feature Preview |  | [Recording](https://www.hashicorp.com/resources/terraform-cloud-ga-collaboration-for-everyone) |
 | 07.16.2019 | O'Reilly Open Source Conference | [Hands-on with Vault on Kubernetes](https://speakerdeck.com/joatmon08/hands-on-with-vault-on-kubernetes) | [Demo](https://github.com/hashicorp/hands-on-with-vault-on-kubernetes) |  |
 | 02.13.2019 | Women Who Code Dallas | [Kubernetes: Learning from Zero to Production](https://www.slideshare.net/RosemaryWang/wwcode-dallas-kubernetes-learning-from-zero-to-production) |  | [Recording](https://www.youtube.com/watch?v=_3ZWtBYivZk) |
