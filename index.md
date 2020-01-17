@@ -7,7 +7,8 @@ references about me.
 
 | Date        | Conference/MeetUp  | Title | Time | Room |
 | ----------- | ----------- | ------- | ---- |  ------- |
-| 02.21.2020 | Devnexus | [Stretching the Service Mesh from Java to Beyond](https://devnexus.com/presentations/4518/) | 1:10PM |  |
+| 02.21.2020 | Devnexus | [Stretching the Service Mesh from Java to Beyond](https://devnexus.com/presentations/4518/) | 1:10PM | 
+Cloud Infrastructure - 302 |
 | 02.28.2020 | DevOpsDays Charlotte | [Secrets (Management on Kubernetes) can be Fun](https://devopsdays.org/events/2020-charlotte/program/rosemary-wang)| 2:45PM |  |
 
 
