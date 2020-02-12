@@ -10,6 +10,7 @@ references about me.
 | 02.21.2020 | Devnexus | [Stretching the Service Mesh from Java to Beyond](https://devnexus.com/presentations/4518/) | 1:10PM | Cloud Infrastructure - 302 |
 | 02.28.2020 | DevOpsDays Charlotte | [Secrets (Management on Kubernetes) can be Fun](https://devopsdays.org/events/2020-charlotte/program/rosemary-wang)| 2:45PM |  |
 | 04.29.2020 | Trajectory Conference | [Feature Flags All the Way Down](https://www.trajectoryconf.com/)| 1:50 - 2:10PM | Bloc 15 |
+| 06.17.2020 | O'Reilly Infrastructure & Ops | Testing our Secrets Management Architecture | | |
 
 # [Previous](#slides)
 
