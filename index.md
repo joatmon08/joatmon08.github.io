@@ -7,7 +7,6 @@ references about me.
 
 | Date        | Conference/MeetUp  | Title | Time | Room |
 | ----------- | ----------- | ------- | ---- |  ------- |
-| 02.21.2020 | Devnexus | [Stretching the Service Mesh from Java to Beyond](https://devnexus.com/presentations/4518/) | 1:10PM | Cloud Infrastructure - 302 |
 | 02.28.2020 | DevOpsDays Charlotte | [Secrets (Management on Kubernetes) can be Fun](https://devopsdays.org/events/2020-charlotte/program/rosemary-wang)| 2:45PM |  |
 | 04.29.2020 | Trajectory Conference | [Feature Flags All the Way Down](https://www.trajectoryconf.com/)| 1:50 - 2:10PM | Bloc 15 |
 | 06.17.2020 | O'Reilly Infrastructure & Ops | Testing our Secrets Management Architecture | | |
@@ -16,6 +15,7 @@ references about me.
 
 | Date        | Conference/MeetUp  | Slides | Demo | Recording |
 | ----------- | ----------- | ------- | ---- |  ------- | --- | --- | --- |
+| 02.21.2020 | Devnexus | [Stretching the Service Mesh from Java to Beyond](https://speakerdeck.com/joatmon08/stretching-the-service-mesh-from-java-to-beyond) | [Demo](https://github.com/joatmon08/expense-report) |  |
 | 12.18.2019 | Women Who Code Cloud Webinar | [Testing Infrastructure in Production with Terraform](https://speakerdeck.com/joatmon08/testing-infrastructure-in-production-with-terraform) |  | [Recording](https://zoom.us/rec/play/68cpf-j-qmo3SNaduASDAP9xW46_LqKs0iIaqPcLy0m1BnRWOlulY7tGY7SF33wEYNcbMDKpva90HsrN?continueMode=true) |
 | 12.13.2019 | DevOps.com Webinar | [Best Practices of Infrastructure-as-Code with Terraform](https://speakerdeck.com/joatmon08/best-practices-of-infrastructure-as-code-with-terraform) |  | [Recording](https://webinars.devops.com/best-practices-of-infrastructure-as-code-with-terraform) |
 | 12.03.2019 | AWS re:Invent | [NET211-S Service mesh across hybrid infrastructure](https://speakerdeck.com/joatmon08/net211-s-service-mesh-across-hybrid-infrastructure) | [Demo](https://github.com/hashicorp/demo-consul-cloud-map) | [Recording](https://www.youtube.com/watch?v=gks3lvZGjn4) |
