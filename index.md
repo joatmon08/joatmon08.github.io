@@ -7,8 +7,6 @@ references about me.
 
 | Date        | Conference/MeetUp  | Title | Time | Room |
 | ----------- | ----------- | ------- | ---- |  ------- |
-| 04.23.2020 | HashiCorp Webinar | [Configure Observability as Code with HashiCorp Terraform and Datadog](https://www.hashicorp.com/webinars/configure-observability-as-code-with-hashicorp-terraform-and-datadog/) | 9AM-10AM PDT | Virtual |
-| 04.29.2020 | Perth HashiCorp User Group | [Infrastructure Testing](https://www.meetup.com/Perth-HashiCorp-User-Group/events/269989251) | 8-9:30PM GMT+8 | Virtual |
 | 05.01.2020 | HashiCorp Live | [Using HashiCorp Vault with CircleCI, Part 3](https://www.twitch.tv/hashicorplive) | 1-3PM PDT | Virtual |
 | 08.27.2020 | Trajectory Conference | [Feature Flags All the Way Down](https://www.trajectoryconf.com/)| 1:50 - 2:10PM | Bloc 15 |
 
@@ -16,8 +14,10 @@ references about me.
 
 | Date        | Conference/MeetUp  | Slides | Demo | Recording |
 | ----------- | ----------- | ------- | ---- |  ------- | --- | --- | --- |
-| 04.21.2020 | CTOAdvisor Virtual Conference | [Scaling Infrastructure as Code to Improve Delivery & Maintain Security](https://speakerdeck.com/joatmon08/scaling-infrastructure-as-code-to-improve-delivery-and-maintain-security) |  |  |
-| 03.15.2020 | OWASP DevSlop | Security & Policy Configurations for Infrastructure as Code |  | [Recording](https://www.youtube.com/watch?v=KOTXCIN0yE0&feature=youtu.be) |
+| 04.29.2020 | Perth HashiCorp User Group | [Infrastructure Unit & Contract Testing](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) | [Demo](https://github.com/joatmon08/tdd-infrastructure/tree/master/tf-azure-network) | [Recording](https://www.youtube.com/watch?v=s0y0nRIrgwE) |
+| 04.23.2020 | HashiCorp Webinar | Configure Observability as Code with HashiCorp Terraform and Datadog |  | [Recording](https://www.hashicorp.com/resources/configure-observability-as-code-with-terraform-and-datadog/) |
+| 04.21.2020 | CTOAdvisor Virtual Conference | [Scaling Infrastructure as Code to Improve Delivery & Maintain Security](https://speakerdeck.com/joatmon08/scaling-infrastructure-as-code-to-improve-delivery-and-maintain-security) |  | [Recording](https://www.youtube.com/watch?v=knTLeA3JWk4) |
+| 03.15.2020 | OWASP DevSlop | Security & Policy Configurations for Infrastructure as Code |  | [Recording](https://www.youtube.com/watch?v=KOTXCIN0yE0) |
 | 02.28.2020 | DevOpsDays Charlotte | [Secrets (Management on Kubernetes) can be Fun](https://www.hashicorp.com/blog/dynamic-database-credentials-with-vault-and-kubernetes/)|  |  |
 | 02.21.2020 | Devnexus | [Stretching the Service Mesh from Java to Beyond](https://speakerdeck.com/joatmon08/stretching-the-service-mesh-from-java-to-beyond) | [Demo](https://github.com/joatmon08/expense-report) |  |
 | 12.18.2019 | Women Who Code Cloud Webinar | [Testing Infrastructure in Production with Terraform](https://speakerdeck.com/joatmon08/testing-infrastructure-in-production-with-terraform) |  | [Recording](https://zoom.us/rec/play/68cpf-j-qmo3SNaduASDAP9xW46_LqKs0iIaqPcLy0m1BnRWOlulY7tGY7SF33wEYNcbMDKpva90HsrN?continueMode=true) |
