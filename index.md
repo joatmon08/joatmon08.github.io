@@ -1,16 +1,16 @@
 An aggregated list of speaking engagements and other useful
 references about me.
 
-[Need my bio?](bio.html)
+# Speaking
 
-# Up Next
+## Up Next
 
 | Date        | Conference/MeetUp  | Title | Time | Room |
 | ----------- | ----------- | ------- | ---- |  ------- |
 | 05.13.2020 | St. Louis HashiCorp User Group | [Terraform & Kubernetes Operator](https://www.meetup.com/St-Louis-HashiCorp-User-Group/events/270512761)| 6PM-7:30PM Central | Virtual |
 | 08.27.2020 | Trajectory Conference | [Feature Flags All the Way Down](https://www.trajectoryconf.com/)| 1:50-2:10PM Pacific | Bloc 15 |
 
-# [Previous](#slides)
+## Previous
 
 | Date        | Conference/MeetUp  | Slides | Demo | Recording |
 | ----------- | ----------- | ------- | ---- |  ------- | --- | --- | --- |
@@ -64,3 +64,14 @@ Other writing includes:
 # Open Source
 
 For open source projects and contributions, see [my GitHub](https://github.com/joatmon08).
+
+# About Me
+
+As a developer advocate for HashiCorp, Rosemary works to bridge the technical and cultural barriers between infrastructure engineers and application developers. She has a fascination for solving intractable problems with code, whether it be helping an infrastructure engineer learn to code or an application developer troubleshoot infrastructure failures. She also interfaces with vendors, clients, startups, and open source projects to find creative software solutions for infrastructure. When she is not drawing on whiteboards, Rosemary valiantly attempts to hack stacks of various infrastructure systems on her laptop while foraging for tasty victuals around the world.
+
+Find me on:
+
+- Twitter: @joatmon08
+- Github: joatmon08
+- LinkedIn: linkedin.com/in/rosemarywang/
+- Twitch: joatmon08
