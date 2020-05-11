@@ -1,22 +1,25 @@
 An aggregated list of speaking engagements and other useful
 references about me.
 
-[Here's my speaker bio.](bio.html)
+[Need my bio?](bio.html)
 
 # Up Next
 
 | Date        | Conference/MeetUp  | Title | Time | Room |
 | ----------- | ----------- | ------- | ---- |  ------- |
-| 05.01.2020 | HashiCorp Live | [Using HashiCorp Vault with CircleCI, Part 3](https://www.twitch.tv/hashicorplive) | 1-3PM PDT | Virtual |
-| 08.27.2020 | Trajectory Conference | [Feature Flags All the Way Down](https://www.trajectoryconf.com/)| 1:50 - 2:10PM | Bloc 15 |
+| 05.13.2020 | St. Louis HashiCorp User Group | [Terraform & Kubernetes Operator](https://www.meetup.com/St-Louis-HashiCorp-User-Group/events/270512761)| 6PM-7:30PM Central | Virtual |
+| 08.27.2020 | Trajectory Conference | [Feature Flags All the Way Down](https://www.trajectoryconf.com/)| 1:50-2:10PM Pacific | Bloc 15 |
 
 # [Previous](#slides)
 
 | Date        | Conference/MeetUp  | Slides | Demo | Recording |
 | ----------- | ----------- | ------- | ---- |  ------- | --- | --- | --- |
+| 05.01.2020 | HashiCorp Live | Configuring CircleCI to Deploy to Kubernetes with HashiCorp Terraform | [Demo](https://github.com/punkdata/nodejs-circleci/tree/vault) | [Recording](https://www.hashicorp.com/resources/hashicorp-live-with-terraform-and-circleci-deploy-kubernetes-application/) |
 | 04.29.2020 | Perth HashiCorp User Group | [Infrastructure Unit & Contract Testing](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) | [Demo](https://github.com/joatmon08/tdd-infrastructure/tree/master/tf-azure-network) | [Recording](https://www.youtube.com/watch?v=s0y0nRIrgwE) |
 | 04.23.2020 | HashiCorp Webinar | Configure Observability as Code with HashiCorp Terraform and Datadog |  | [Recording](https://www.hashicorp.com/resources/configure-observability-as-code-with-terraform-and-datadog/) |
 | 04.21.2020 | CTOAdvisor Virtual Conference | [Scaling Infrastructure as Code to Improve Delivery & Maintain Security](https://speakerdeck.com/joatmon08/scaling-infrastructure-as-code-to-improve-delivery-and-maintain-security) |  | [Recording](https://www.youtube.com/watch?v=knTLeA3JWk4) |
+| 04.17.2020 | HashiCorp Live | Injecting HashiCorp Vault Dynamic Secrets into a CircleCI Pipeline | [Demo](https://github.com/punkdata/nodejs-circleci/tree/vault) | [Recording](https://www.hashicorp.com/resources/hashicorp-live-with-vault-and-circleci-injecting-dynamic-secrets-into-a-pipeline/) |
+| 04.03.2020 | HashiCorp Live | Injecting HashiCorp Vault Static Secrets into a CircleCI Pipeline | [Demo](https://github.com/punkdata/nodejs-circleci/tree/vault) | [Recording](https://www.hashicorp.com/resources/hashicorp-live-with-vault-and-circleci-injecting-static-secrets-into-a-pipeline/) |
 | 03.15.2020 | OWASP DevSlop | Security & Policy Configurations for Infrastructure as Code |  | [Recording](https://www.youtube.com/watch?v=KOTXCIN0yE0) |
 | 02.28.2020 | DevOpsDays Charlotte | [Secrets (Management on Kubernetes) can be Fun](https://www.hashicorp.com/blog/dynamic-database-credentials-with-vault-and-kubernetes/)|  |  |
 | 02.21.2020 | Devnexus | [Stretching the Service Mesh from Java to Beyond](https://speakerdeck.com/joatmon08/stretching-the-service-mesh-from-java-to-beyond) | [Demo](https://github.com/joatmon08/expense-report) |  |
@@ -50,7 +53,14 @@ My blog is [hosted on Medium](https://medium.com/@joatmon08).
 Other writing includes:
 
 - [Creating Workspaces with the HashiCorp Terraform Operator for Kubernetes](https://www.hashicorp.com/blog/creating-workspaces-with-the-hashicorp-terraform-operator-for-kubernetes/)
+- [Application Feature Toggles with Consul](https://www.hashicorp.com/blog/application-feature-toggles-with-hashicorp-consul)
+- [Tracing .NET Applications with Consul](https://www.hashicorp.com/blog/tracing-dotnet-applications-with-consul-service-mesh)
+- [Feature Toggles, Blue-Green Deployments & Canary Tests with Terraform](https://www.hashicorp.com/blog/terraform-feature-toggles-blue-green-deployments-canary-test)
 - [Demonstrating HashiCorp Tools with Dance Dance Automation](https://www.hashicorp.com/blog/demonstrating-hashicorp-tools-with-dance-dance-automation/)
 - [Migrating to HashiCorp Terraform 0.12 on Microsoft Azure](https://cloudblogs.microsoft.com/opensource/2019/06/25/how-to-migrate-to-hashicorp-terraform-0-12-microsoft-azure/)
 - [Using the Kubernetes and Helm Providers with Terraform 0.12](https://www.hashicorp.com/blog/using-the-kubernetes-and-helm-providers-with-terraform-0-12/)
 - [20 Linux commands every sysadmin should know](https://opensource.com/article/17/7/20-sysadmin-commands)
+
+# Open Source
+
+For open source projects and contributions, see [my GitHub](https://github.com/joatmon08).
