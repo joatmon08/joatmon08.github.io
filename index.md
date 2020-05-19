@@ -3,17 +3,9 @@ references about me.
 
 # Speaking
 
-## Up Next
-
-| Date        | Conference/MeetUp  | Title | Time | Room |
-| ----------- | ----------- | ------- | ---- |  ------- |
-| 05.13.2020 | St. Louis HashiCorp User Group | [Terraform & Kubernetes Operator](https://www.meetup.com/St-Louis-HashiCorp-User-Group/events/270512761)| 6PM-7:30PM Central | Virtual |
-| 08.27.2020 | Trajectory Conference | [Feature Flags All the Way Down](https://www.trajectoryconf.com/)| 1:50-2:10PM Pacific | Bloc 15 |
-
-## Previous
-
 | Date        | Conference/MeetUp  | Slides | Demo | Recording |
 | ----------- | ----------- | ------- | ---- |  ------- | --- | --- | --- |
+| 05.13.2020 | St. Louis HashiCorp User Group | [Terraform & Kubernetes Operator](https://speakerdeck.com/joatmon08/terraform-operator-for-kubernetes)) |  |  |
 | 05.01.2020 | HashiCorp Live | Configuring CircleCI to Deploy to Kubernetes with HashiCorp Terraform | [Demo](https://github.com/punkdata/nodejs-circleci/tree/vault) | [Recording](https://www.hashicorp.com/resources/hashicorp-live-with-terraform-and-circleci-deploy-kubernetes-application/) |
 | 04.29.2020 | Perth HashiCorp User Group | [Infrastructure Unit & Contract Testing](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) | [Demo](https://github.com/joatmon08/tdd-infrastructure/tree/master/tf-azure-network) | [Recording](https://www.youtube.com/watch?v=s0y0nRIrgwE) |
 | 04.23.2020 | HashiCorp Webinar | Configure Observability as Code with HashiCorp Terraform and Datadog |  | [Recording](https://www.hashicorp.com/resources/configure-observability-as-code-with-terraform-and-datadog/) |
