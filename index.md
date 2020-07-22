@@ -1,6 +1,12 @@
 An aggregated list of speaking engagements and other useful
 references about me.
 
+# Up Next
+
+| Date & Time | Conference/MeetUp |
+| ----------- | ----------- |
+| 08.13.2020 at 12:05pm PT | [OSCON Open Source Software Superstream](https://learning.oreilly.com/live-training/courses/oscon-open-source-software-superstream-series/0636920410188/) |
+
 # Speaking
 
 | Date        | Conference/MeetUp  | Slides | Demo | Recording |
