@@ -30,19 +30,6 @@ nav-menu: true
 						infrastructure systems on her laptop while foraging for tasty victuals around the world.</p>
 				</div>
 			</div>
-			<div class="row">
-				<div class="inner">
-					<h3>Find Me On</h3>
-					<ul class="icons">
-						<li><a href="https://github.com/joatmon08" class="icon alt fa-github"><span
-									class="label">GitHub</span></a></li>
-						<li><a href="https://twitter.com/joatmon08" class="icon alt fa-twitter"><span
-									class="label">Twitter</span></a></li>
-						<li><a href="https://www.linkedin.com/in/rosemarywang/" class="icon alt fa-linkedin"><span
-									class="label">LinkedIn</span></a></li>
-					</ul>
-				</div>
-			</div>
 		</div>
 	</section>
 </div>
