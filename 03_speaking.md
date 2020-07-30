@@ -2,6 +2,7 @@
 title: Speaking
 layout: landing
 description: 'Up Next, Recordings, and Slides'
+image: assets/images/speaker.jpg
 nav-menu: true
 ---
 
