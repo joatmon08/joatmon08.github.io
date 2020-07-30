@@ -26,7 +26,7 @@ nav-menu: true
                 <div class="inner">
                     <h3>Articles</h3>
                     <p>Below are additional articles published outside of my personal blog.</p>
-                    <ul class="alt">
+                    <ul class="unordered">
                         <li><a href="https://www.infoq.cn/article/QMO4tQKKMspZZ6yG3WeI" target="_blank"><span
                                     class="label">用容器来学习 Nginx 反向代理 (Chinese Translation of "Using Containers to Learn
                                     Nginx Reverse Proxy")</span></a></li>
