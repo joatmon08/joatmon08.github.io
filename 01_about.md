@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: A bit about me
+description: ''
 image: assets/images/bio.jpg
 nav-menu: true
 ---

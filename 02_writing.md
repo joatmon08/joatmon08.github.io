@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Writing
-description: Some articles and blogs
+description: Articles and Blog
 nav-menu: true
 ---
 
