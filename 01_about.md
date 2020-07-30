@@ -15,9 +15,9 @@ nav-menu: true
 				<h1>About</h1>
 			</header>
 			<!-- Content -->
-			<p>My goal is to conceptualize and convey. If I'm learning, I'll be speaking or writing about it for others!
-			</p>
+			<p>My goal is to conceptualize and convey. If I'm learning, I'll be speaking or writing about it for others!</p>
             <p>I've spent most of my career as an infrastructure engineer, from datacenters to public cloud. Most of the time, you'll find me pairing with infrastructure engineers on code or application developers on systems. I enjoy open source projects, especially when it involves integrations with other ecosystems.</p>
+            <p>Besides solving infrastructure puzzles, I'm a mentor and aspiring apartment gardener.</p>
 			<div class="row">
 				<div class="inner">
 					<h3>Speaker Bio</h3>
