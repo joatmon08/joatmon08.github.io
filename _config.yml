@@ -1,12 +1,29 @@
+# site settings
 title: Rosemary Wang
-description: About me, links to speaker slides and recordings.
+subtitle: ''
+description: she/her. infra engineer. cloud explorer.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Rosemary Wang
 
-author:
-  name: Rosemary Wang
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
 
-social-network-links:
-  github: joatmon08
-  twitter: joatmon08
-  linkedin: rosemarywang
-  twitch: joatmon08
-theme: jekyll-theme-cayman
+# social settings
+500px_url:
+facebook_url:
+github_url: https://gitlab.com/joatmon08
+gitlab_url: https://gitlab.com/joatmon08
+googleplus_url:
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/rosemarywang/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/joatmon08
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
