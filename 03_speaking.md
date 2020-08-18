@@ -25,11 +25,6 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
-						<td>08.13.2020 at 12:05PM PT</td>
-                        <td><a href="https://learning.oreilly.com/live-training/courses/oscon-open-source-software-superstream-series/0636920410188/" target="_blank"><span class="label">OSCON Open Source Software Superstream</span></a></td>
-						<td>Virtual</td>
-					</tr>
 				</tbody>
 			</table>
 		</div>
@@ -52,6 +47,14 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>08.13.2020</td>
+						<td>O'Reilly OSCON Superstream: Infrastructure</td>
+                        <td>Applying Application Feature Toggles to Infrastructure</td>
+                        <td>
+                        <a href="https://github.com/joatmon08/feature-flags-infrastructure" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>05.13.2020</td>
 						<td>St. Louis HashiCorp User Group</td>
