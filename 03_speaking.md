@@ -53,6 +53,7 @@ nav-menu: true
                         <td>Applying Application Feature Toggles to Infrastructure</td>
                         <td>
                         <a href="https://github.com/joatmon08/feature-flags-infrastructure" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+                        <a href="https://www.oreilly.com/library/view/oscon-open-source/0636920469735/" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
