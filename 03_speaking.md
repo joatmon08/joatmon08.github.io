@@ -48,6 +48,15 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>10.02.2020</td>
+						<td>Grace Hopper Celebration</td>
+                        <td>Code & Deploy Your Technical Portfolio</td>
+                        <td>
+			<a href="https://github.com/joatmon08/tech-portfolio/blob/main/assets/ghc.pdf" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+                        <a href="https://github.com/joatmon08/tech-portfolio" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>08.13.2020</td>
 						<td>O'Reilly OSCON Superstream: Infrastructure</td>
                         <td>Applying Application Feature Toggles to Infrastructure</td>
