@@ -27,7 +27,7 @@ nav-menu: true
 						developer troubleshoot infrastructure failures. She also interfaces with vendors, clients,
 						startups, and open source projects to find creative software solutions for infrastructure. When
 						she is not drawing on whiteboards, Rosemary valiantly attempts to hack stacks of various
-						infrastructure systems on her laptop while foraging for tasty victuals around the world.</p>
+						infrastructure systems on her laptop while watering her houseplants.</p>
 				</div>
 			</div>
 		</div>
