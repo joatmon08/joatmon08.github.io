@@ -27,23 +27,23 @@ nav-menu: true
 				<tbody>
 					<tr>
 						<td>11.17.2020 at 9AM EST</td>
-						<td>Office Hours: Vault + Kubernetes</td>
-            <td><a href="https://youtu.be/-Oqb16Grwgs">Link</a></td>
+						<td>HashiCorp Community Office Hours</td>
+            <td><a href="https://youtu.be/-Oqb16Grwgs">Vault + Kubernetes</a></td>
 					</tr>
 					<tr>
 						<td>11.17.2020 at 11AM EST</td>
-						<td>The New Stack Analysts Virtual Pancake Breakfast + Podcast sponsored by Accurics: Immutable Security is Hot</td>
-            <td><a href="https://kccncna20.sched.com/event/eoJF">Link</a></td>
+						<td>The New Stack Analysts Virtual Pancake Breakfast + Podcast sponsored by Accurics</td>
+            <td><a href="https://kccncna20.sched.com/event/eoJF">Immutable Security is Hot</a></td>
 					</tr>
 					<tr>
 						<td>11.17.2020 at 12PM EST</td>
-						<td>The State Of State On k8s- what's your status?</td>
-            <td><a href="https://www.meetup.com/Data-on-Kubernetes-community/events/274551382/">Link</a></td>
+						<td>Data on Kubernetes Meetup</td>
+            <td><a href="https://www.meetup.com/Data-on-Kubernetes-community/events/274551382/">The State Of State On k8s- what's your status?</a></td>
 					</tr>
 					<tr>
 						<td>11.19.2020 at 6:15PM EST</td>
-						<td>Office Hours: Consul + Kubernetes</td>
-            <td><a href="https://youtu.be/XocCswZdr_Q">Link</a></td>
+						<td>HashiCorp Community Office Hours</td>
+            <td><a href="https://youtu.be/XocCswZdr_Q">Consul + Kubernetes</a></td>
 					</tr>
 					<tr>
 						<td>12.04.2020</td>
