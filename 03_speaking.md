@@ -45,6 +45,16 @@ nav-menu: true
 						<td>Office Hours: Consul + Kubernetes</td>
             <td><a href="https://youtu.be/XocCswZdr_Q">Link</a></td>
 					</tr>
+					<tr>
+						<td>12.04.2020</td>
+						<td>Women Who Code Connect Forward</td>
+            <td><a href="https://connectforward.womenwhocode.dev/">A Developer's Guide to Secrets Management</a></td>
+					</tr>
+					<tr>
+						<td>12.09.2020 at 1:30PM EST</td>
+						<td>GitHub Universe</td>
+            <td><a href="https://githubuniverse.com/Keeping-secrets-in-your-infrastructure-pipeline/">Keeping secrets in your infrastructure pipeline</a></td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
