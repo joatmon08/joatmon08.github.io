@@ -58,6 +58,14 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>11.19.2020</td>
+						<td>HashiCorp Community Office Hours</td>
+            			<td>Consul + Kubernetes</td>
+                        <td>
+                        	<a href="https://youtu.be/XocCswZdr_Q" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>11.17.2020</td>
 						<td>HashiCorp Community Office Hours</td>
             			<td>Vault + Kubernetes</td>
@@ -80,14 +88,6 @@ nav-menu: true
             			<td>The State Of State On k8s- what's your status?</td>
                         <td>
                         	<a href="https://youtu.be/h5hqpTG1oUs" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
-						</td>
-					</tr>
-					<tr>
-						<td>11.19.2020</td>
-						<td>HashiCorp Community Office Hours</td>
-            			<td>Consul + Kubernetes</td>
-                        <td>
-                        	<a href="https://youtu.be/XocCswZdr_Q" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
