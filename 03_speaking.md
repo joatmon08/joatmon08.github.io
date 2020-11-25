@@ -26,34 +26,14 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>11.17.2020 at 9AM EST</td>
-						<td>HashiCorp Community Office Hours</td>
-            <td><a href="https://youtu.be/-Oqb16Grwgs">Vault + Kubernetes</a></td>
-					</tr>
-					<tr>
-						<td>11.17.2020 at 11AM EST</td>
-						<td>The New Stack Analysts Virtual Pancake Breakfast + Podcast sponsored by Accurics</td>
-            <td><a href="https://kccncna20.sched.com/event/eoJF">Immutable Security is Hot</a></td>
-					</tr>
-					<tr>
-						<td>11.17.2020 at 12PM EST</td>
-						<td>Data on Kubernetes Meetup</td>
-            <td><a href="https://www.meetup.com/Data-on-Kubernetes-community/events/274551382/">The State Of State On k8s- what's your status?</a></td>
-					</tr>
-					<tr>
-						<td>11.19.2020 at 6:15PM EST</td>
-						<td>HashiCorp Community Office Hours</td>
-            <td><a href="https://youtu.be/XocCswZdr_Q">Consul + Kubernetes</a></td>
-					</tr>
-					<tr>
 						<td>12.04.2020</td>
 						<td>Women Who Code Connect Forward</td>
-            <td><a href="https://connectforward.womenwhocode.dev/">A Developer's Guide to Secrets Management</a></td>
+            			<td><a href="https://connectforward.womenwhocode.dev/">A Developer's Guide to Secrets Management</a></td>
 					</tr>
 					<tr>
 						<td>12.09.2020 at 1:30PM EST</td>
 						<td>GitHub Universe</td>
-            <td><a href="https://githubuniverse.com/Keeping-secrets-in-your-infrastructure-pipeline/">Keeping secrets in your infrastructure pipeline</a></td>
+            			<td><a href="https://githubuniverse.com/Keeping-secrets-in-your-infrastructure-pipeline/">Keeping secrets in your infrastructure pipeline</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -77,6 +57,39 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>11.17.2020</td>
+						<td>HashiCorp Community Office Hours</td>
+            			<td>Vault + Kubernetes</td>
+                        <td>
+                        	<a href="https://github.com/joatmon08/hcp-vault/blob/main/EKS.md" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+                        	<a href="https://youtu.be/-Oqb16Grwgs" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
+						<td>11.17.2020</td>
+						<td>The New Stack Analysts Virtual Pancake Breakfast + Podcast sponsored by Accurics</td>
+            			<td>Immutable Security is Hot</td>
+                        <td>
+                        	<a href="https://thenewstack.io/pancakes-are-hot-and-so-is-immutable-security/" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
+						<td>11.17.2020</td>
+						<td>Data on Kubernetes Meetup</td>
+            			<td>The State Of State On k8s- what's your status?</td>
+                        <td>
+                        	<a href="https://youtu.be/h5hqpTG1oUs" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
+						<td>11.19.2020</td>
+						<td>HashiCorp Community Office Hours</td>
+            			<td>Consul + Kubernetes</td>
+                        <td>
+                        	<a href="https://youtu.be/XocCswZdr_Q" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>10.02.2020</td>
 						<td>Grace Hopper Celebration</td>
