@@ -26,12 +26,12 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>12.04.2020</td>
+						<td>12.04.2020 at 2:30PM ET</td>
 						<td>Women Who Code Connect Forward</td>
             			<td><a href="https://connectforward.womenwhocode.dev/">A Developer's Guide to Secrets Management</a></td>
 					</tr>
 					<tr>
-						<td>12.09.2020 at 1:30PM EST</td>
+						<td>12.09.2020 at 1:30PM ET</td>
 						<td>GitHub Universe</td>
             			<td><a href="https://githubuniverse.com/Keeping-secrets-in-your-infrastructure-pipeline/">Keeping secrets in your infrastructure pipeline</a></td>
 					</tr>
