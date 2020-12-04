@@ -58,7 +58,7 @@ nav-menu: true
             <td>A Developer's Guide to Secrets Management</td>
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/a-developers-guide-to-secrets-management" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
-              <a href="https://deploy-preview-2633--hashicorp-learn.netlify.app/tutorials/vault/dotnet-vault-agent" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+              <a href="https://learn.hashicorp.com/tutorials/vault/dotnet-vault-agent" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
 						</td>
 					</tr>
 					<tr>
