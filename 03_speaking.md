@@ -26,11 +26,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>12.04.2020 at 2:30PM ET</td>
-						<td>Women Who Code Connect Forward</td>
-            			<td><a href="https://connectforward.womenwhocode.dev/">A Developer's Guide to Secrets Management</a></td>
-					</tr>
-					<tr>
 						<td>12.09.2020 at 1:30PM ET</td>
 						<td>GitHub Universe</td>
             			<td><a href="https://githubuniverse.com/Keeping-secrets-in-your-infrastructure-pipeline/">Keeping secrets in your infrastructure pipeline</a></td>
@@ -58,12 +53,19 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>12.04.2020 at 2:30PM ET</td>
+						<td>Women Who Code Connect Forward</td>
+            <td>A Developer's Guide to Secrets Management</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/a-developers-guide-to-secrets-management" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+              <a href="https://deploy-preview-2633--hashicorp-learn.netlify.app/tutorials/vault/dotnet-vault-agent" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>11.19.2020</td>
 						<td>HashiCorp Community Office Hours</td>
-            			<td>Consul + Kubernetes</td>
-                        <td>
-                        	<a href="https://youtu.be/XocCswZdr_Q" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
-						</td>
+            <td>Consul + Kubernetes</td>
+            <td><a href="https://youtu.be/XocCswZdr_Q" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a></td>
 					</tr>
 					<tr>
 						<td>11.17.2020</td>
