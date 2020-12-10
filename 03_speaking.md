@@ -25,11 +25,11 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
+					<!--tr>
 						<td>12.09.2020 at 1:30PM ET</td>
 						<td>GitHub Universe</td>
-            			<td><a href="https://githubuniverse.com/Keeping-secrets-in-your-infrastructure-pipeline/">Keeping secrets in your infrastructure pipeline</a></td>
-					</tr>
+            <td><a href="https://githubuniverse.com/Keeping-secrets-in-your-infrastructure-pipeline/">Keeping secrets in your infrastructure pipeline</a></td>
+					</tr-->
 				</tbody>
 			</table>
 		</div>
