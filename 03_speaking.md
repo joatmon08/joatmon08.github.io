@@ -251,7 +251,7 @@ nav-menu: true
 						<td>
 						<a href="https://speakerdeck.com/joatmon08/test-in-production-infrastructure-edition" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 						<a href="https://github.com/joatmon08/test-in-production-for-infrastructure" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
-						<a href="https://launchdarkly.com/blog/testing-infrastructure-changes-in-production-at-hashicorp/" class="icon alt fa-youtube-play" target="_blank"><span class="label">Demo</span></a>
+						<a href="https://www.youtube.com/watch?v=fKPBTWLjv8M" class="icon alt fa-youtube-play" target="_blank"><span class="label">Demo</span></a>
 						</td>
 					</tr>
 					<tr>
