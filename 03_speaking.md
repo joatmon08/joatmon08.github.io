@@ -53,7 +53,17 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>12.04.2020 at 2:30PM ET</td>
+						<td>12.09.2020</td>
+						<td>GitHub Universe</td>
+						<td>Keeping secrets in your infrastructure pipeline</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/keeping-secrets-in-your-infrastructure-pipeline" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+              <a href="https://github.com/joatmon08/infrastructure-pipeline" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<!--a href="https://youtu.be/gO4i_s0h1uo" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a-->
+						</td>
+					</tr>
+					<tr>
+						<td>12.04.2020</td>
 						<td>Women Who Code Connect Forward</td>
             <td>A Developer's Guide to Secrets Management</td>
 						<td>
