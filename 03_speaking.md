@@ -25,11 +25,11 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<!--tr>
-						<td>12.09.2020 at 1:30PM ET</td>
-						<td>GitHub Universe</td>
-            <td><a href="https://githubuniverse.com/Keeping-secrets-in-your-infrastructure-pipeline/">Keeping secrets in your infrastructure pipeline</a></td>
-					</tr-->
+					<tr>
+						<td>01.13.2021 at 11:00AM ET</td>
+						<td>O'Reilly Live Online Training</td>
+            <td><a href="https://www.oreilly.com/live-training/courses/hands-on-policy-as-code/0636920051141/">Hands-on Policy as Code</a></td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
