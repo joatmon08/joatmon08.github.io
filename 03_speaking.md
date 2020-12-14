@@ -59,7 +59,7 @@ nav-menu: true
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/keeping-secrets-in-your-infrastructure-pipeline" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
               <a href="https://github.com/joatmon08/infrastructure-pipeline" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
-							<!--a href="https://youtu.be/gO4i_s0h1uo" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a-->
+							<a href="https://www.youtube.com/watch?v=qgF7XquqVSA" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
