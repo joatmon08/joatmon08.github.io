@@ -26,9 +26,19 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>01.13.2021 at 11:00AM ET</td>
+						<td>01.26.2021 at 13:00 EST</td>
+						<td>Cloud Builders</td>
+            			<td><a href="https://build-up.cloud-builders.tech/#rec268785140">.NET Edition: Fireside Chat</a></td>
+					</tr>
+					<tr>
+						<td>02.06.2021 at 12:30 CET</td>
+						<td>FOSDEM</td>
+            			<td><a href="https://fosdem.org/2021/schedule/event/the_great_cloud_migration_with_network_automation_and_service_mesh/">The Great Cloud Migration with Network Automation & Service Mesh</a></td>
+					</tr>
+					<tr>
+						<td>03.12.2021 at 10:00 EST</td>
 						<td>O'Reilly Live Online Training</td>
-            <td><a href="https://www.oreilly.com/live-training/courses/hands-on-policy-as-code/0636920051141/">Hands-on Policy as Code</a></td>
+            			<td><a href="https://www.oreilly.com/live-training/courses/hands-on-policy-as-code/0636920052283/">Hands-on Policy as Code</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -52,6 +62,14 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>01.13.2021</td>
+						<td>O'Reilly Live Online Training</td>
+						<td>Hands-on Policy as Code</td>
+						<td>
+              				<a href="https://github.com/joatmon08/policy-as-code" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>12.09.2020</td>
 						<td>GitHub Universe</td>
