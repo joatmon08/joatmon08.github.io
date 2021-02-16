@@ -59,6 +59,7 @@ nav-menu: true
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/the-great-cloud-migration-with-network-automation-and-service-mesh" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 							<a href="https://github.com/joatmon08/cloud-migration" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://ftp.osuosl.org/pub/fosdem/2021/D.infra/greatcloudmigrationnetworkmeshauto.webm" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
