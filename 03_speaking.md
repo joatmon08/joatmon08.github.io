@@ -28,7 +28,14 @@ nav-menu: true
 					<tr>
 						<td>03.12.2021 at 10:00 EST</td>
 						<td>O'Reilly Live Online Training</td>
-            			<td><a href="https://www.oreilly.com/live-training/courses/hands-on-policy-as-code/0636920052283/">Hands-on Policy as Code</a></td>
+						<td><a href="https://www.oreilly.com/live-training/courses/hands-on-policy-as-code/0636920052283/">Hands-on Policy as Code</a></td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>04.29.2021 at 22:30 EST</td>
+						<td>GIDS Live 2021</td>
+						<td><a href="https://wurreka.com/ict/virtual-conference/gids-2021/session/introduction-to-zero-trust-security">An introduction to zero trust security</a></td>
 					</tr>
 				</tbody>
 			</table>
