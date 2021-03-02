@@ -33,9 +33,30 @@ nav-menu: true
 				</tbody>
 				<tbody>
 					<tr>
+						<td>03.31.2021 at 13:00 EST</td>
+						<td>Odyssey Conference</td>
+						<td><a href="https://odyssey.kobiton.com/#schedule">Testing Your Cloud Infrastructure (as Code)</a></td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
 						<td>04.29.2021 at 22:30 EST</td>
 						<td>GIDS Live 2021</td>
 						<td><a href="https://wurreka.com/ict/virtual-conference/gids-2021/session/introduction-to-zero-trust-security">An introduction to zero trust security</a></td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>06.15.2021 - 06.17.2021</td>
+						<td>stackconf</td>
+						<td><a href="https://stackconf.eu/talks/stretching-the-service-mesh-beyond-the-clouds/">Stretching the Service Mesh Beyond the Clouds</a></td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>06.23.2021 - 06.24.2021</td>
+						<td>cdCon</td>
+						<td><a href="https://events.linuxfoundation.org/cdcon/program/early-bird/">Supercharge Cloud Migration with Progressive Delivery</a></td>
 					</tr>
 				</tbody>
 			</table>
