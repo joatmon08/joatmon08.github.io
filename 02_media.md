@@ -27,6 +27,8 @@ nav-menu: true
                     <h3>Articles</h3>
                     <p>Below are additional articles published outside of my personal blog.</p>
                     <ul class="unordered">
+                        <li><a href="https://www.hashicorp.com/blog/testing-hashicorp-terraform" target="_blank"><span
+                                    class="label">Testing HashiCorp Terraform</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/managing-hashicorp-consul-access-control-lists-with-terraform-and-vault" target="_blank"><span
                                     class="label">Managing HashiCorp Consul Access Control Lists (ACLs) with Terraform & Vault</span></a></li>
                         <li><a href="https://www.infoq.cn/article/QMO4tQKKMspZZ6yG3WeI" target="_blank"><span
