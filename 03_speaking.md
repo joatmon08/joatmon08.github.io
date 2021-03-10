@@ -369,7 +369,7 @@ nav-menu: true
 						<td>.NET Conf</td>
                         <td>Stretching the Service Mesh</td>
 						<td>
-                        <a href="https://github.com/dotnet-presentations/dotnetconf2019/blob/master/Technical/Stretching%20the%20Service%20Mesh.pdf" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+                        <a href="https://speakerdeck.com/joatmon08/stretching-the-service-mesh" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 						<a href="https://github.com/joatmon08/dotnet-service-mesh-example" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
 						<a href="https://youtu.be/4-USBT7fxV0" class="icon alt fa-youtube-play" target="_blank"><span class="label">Demo</span></a>
 						</td>
