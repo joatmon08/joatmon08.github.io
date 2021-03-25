@@ -26,13 +26,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>03.12.2021 at 10:00 EST</td>
-						<td>O'Reilly Live Online Training</td>
-						<td><a href="https://www.oreilly.com/live-training/courses/hands-on-policy-as-code/0636920052283/">Hands-on Policy as Code</a></td>
-					</tr>
-				</tbody>
-				<tbody>
-					<tr>
 						<td>03.31.2021 at 13:00 EST</td>
 						<td>Odyssey Conference</td>
 						<td><a href="https://odyssey.kobiton.com/#schedule">Testing Your Cloud Infrastructure (as Code)</a></td>
@@ -80,6 +73,23 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>03.25.2021</td>
+						<td>Security Field Day 5</td>
+						<td>Zero Trust Security with HashiCorp</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/security-field-day-5-zero-trust-security-with-hashicorp" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/joatmon08/hashicorp-stack-demoapp" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
+					<tr>
+						<td>03.12.2021</td>
+						<td>O'Reilly Live Online Training</td>
+						<td>Hands-on Policy as Code</td>
+						<td>
+              				<a href="https://github.com/joatmon08/policy-as-code" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>02.06.2021</td>
 						<td>FOSDEM</td>
