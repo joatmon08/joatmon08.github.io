@@ -26,13 +26,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>03.31.2021 at 13:00 EST</td>
-						<td>Odyssey Conference</td>
-						<td><a href="https://odyssey.kobiton.com/#schedule">Testing Your Cloud Infrastructure (as Code)</a></td>
-					</tr>
-				</tbody>
-				<tbody>
-					<tr>
 						<td>04.29.2021 at 22:30 EST</td>
 						<td>GIDS Live 2021</td>
 						<td><a href="https://wurreka.com/ict/virtual-conference/gids-2021/session/introduction-to-zero-trust-security">An introduction to zero trust security</a></td>
@@ -73,6 +66,14 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>03.31.2021</td>
+						<td>Odyssey Conference</td>
+						<td>Testing Your Cloud Infrastructure (as Code)</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/testing-your-cloud-infrastructure-as-code" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>03.25.2021</td>
 						<td>Security Field Day 5</td>
