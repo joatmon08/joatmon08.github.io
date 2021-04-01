@@ -26,23 +26,23 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>04.29.2021 at 22:30 EST</td>
+						<td>04.29.2021 at 22:30 EDT</td>
 						<td>GIDS Live 2021</td>
 						<td><a href="https://wurreka.com/ict/virtual-conference/gids-2021/session/introduction-to-zero-trust-security">An introduction to zero trust security</a></td>
 					</tr>
 				</tbody>
 				<tbody>
 					<tr>
-						<td>06.15.2021 - 06.17.2021</td>
+						<td>06.15.2021 at 7:15 EDT</td>
 						<td>stackconf</td>
 						<td><a href="https://stackconf.eu/talks/stretching-the-service-mesh-beyond-the-clouds/">Stretching the Service Mesh Beyond the Clouds</a></td>
 					</tr>
 				</tbody>
 				<tbody>
 					<tr>
-						<td>06.23.2021 - 06.24.2021</td>
+						<td>06.23.2021 at 17:45 EDT</td>
 						<td>cdCon</td>
-						<td><a href="https://events.linuxfoundation.org/cdcon/program/early-bird/">Supercharge Cloud Migration with Progressive Delivery</a></td>
+						<td><a href="https://cdcon2021.sched.com/event/iAX7?iframe=no">Supercharge Cloud Migration with Progressive Delivery</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -81,6 +81,7 @@ nav-menu: true
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/security-field-day-5-zero-trust-security-with-hashicorp" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 							<a href="https://github.com/joatmon08/hashicorp-stack-demoapp" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://techfieldday.com/appearance/hashicorp-presents-at-security-field-day-5/" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
