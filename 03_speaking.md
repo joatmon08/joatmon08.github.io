@@ -72,6 +72,7 @@ nav-menu: true
 						<td>Testing Your Cloud Infrastructure (as Code)</td>
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/testing-your-cloud-infrastructure-as-code" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://videos.sproutvideo.com/embed/4d9ddcb31f15efc4c4/38d24cf68eafb732?autoPlay=true&lightbox=true" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
