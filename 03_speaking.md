@@ -26,13 +26,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>04.29.2021 at 22:30 EDT</td>
-						<td>GIDS Live 2021</td>
-						<td><a href="https://wurreka.com/ict/virtual-conference/gids-2021/session/introduction-to-zero-trust-security">An introduction to zero trust security</a></td>
-					</tr>
-				</tbody>
-				<tbody>
-					<tr>
 						<td>06.15.2021 at 7:15 EDT</td>
 						<td>stackconf</td>
 						<td><a href="https://stackconf.eu/talks/stretching-the-service-mesh-beyond-the-clouds/">Stretching the Service Mesh Beyond the Clouds</a></td>
@@ -66,6 +59,15 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>04.29.2021</td>
+						<td>GIDS Live 2021</td>
+						<td>An introduction to zero trust security</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/an-introduction-to-zero-trust-security" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/joatmon08/hashicorp-stack-demoapp" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>03.31.2021</td>
 						<td>Odyssey Conference</td>
