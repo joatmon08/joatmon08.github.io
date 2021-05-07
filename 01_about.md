@@ -21,11 +21,9 @@ nav-menu: true
 			<div class="row">
 				<div class="inner">
 					<h3>Speaker Bio</h3>
-					<p>Rosemary Wang works to bridge the technical and cultural barriers between infrastructure
-						engineers and application developers. She has a fascination for solving intractable problems
-						with code, whether it be helping an infrastructure engineer learn to code or an application
-						developer troubleshoot infrastructure failures. She also interfaces with vendors, clients,
-						startups, and open source projects to find creative software solutions for infrastructure. When
+					<p>Rosemary Wang works to bridge the technical and cultural barriers between infrastructure, security,
+					    and application development. She has a fascination for solving intractable problems
+						as a contributor, educator, speaker, and writer of open source infrastructure products. When
 						she is not drawing on whiteboards, Rosemary valiantly attempts to hack stacks of various
 						infrastructure systems on her laptop while watering her houseplants.</p>
 				</div>
