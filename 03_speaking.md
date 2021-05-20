@@ -26,16 +26,16 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>06.15.2021 at 7:15 EDT</td>
-						<td>stackconf</td>
-						<td><a href="https://stackconf.eu/talks/stretching-the-service-mesh-beyond-the-clouds/">Stretching the Service Mesh Beyond the Clouds</a></td>
+						<td>06.15.2021 at 17:30 EDT</td>
+						<td>live@manning</td>
+						<td><a href="https://freecontent.manning.com/livemanning-conferences-developer-productivity">Balancing Developer Productivity & Security</a></td>
 					</tr>
 				</tbody>
 				<tbody>
 					<tr>
-						<td>06.15.2021 at 17:30 EDT</td>
-						<td>live@manning</td>
-						<td><a href="https://freecontent.manning.com/livemanning-conferences-developer-productivity">Balancing Developer Productivity & Security</a></td>
+						<td>06.16.2021 at 7:15 EDT</td>
+						<td>stackconf</td>
+						<td><a href="https://stackconf.eu/talks/stretching-the-service-mesh-beyond-the-clouds/">Stretching the Service Mesh Beyond the Clouds</a></td>
 					</tr>
 				</tbody>
 				<tbody>
