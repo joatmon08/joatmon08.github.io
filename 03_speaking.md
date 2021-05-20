@@ -33,6 +33,13 @@ nav-menu: true
 				</tbody>
 				<tbody>
 					<tr>
+						<td>06.15.2021 at 17:30 EDT</td>
+						<td>live@manning</td>
+						<td><a href="https://freecontent.manning.com/livemanning-conferences-developer-productivity">Balancing Developer Productivity & Security</a></td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
 						<td>06.23.2021 at 17:45 EDT</td>
 						<td>cdCon</td>
 						<td><a href="https://cdcon2021.sched.com/event/iAX7?iframe=no">Supercharge Cloud Migration with Progressive Delivery</a></td>
