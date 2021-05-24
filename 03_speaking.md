@@ -67,6 +67,16 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>05.23.2021</td>
+						<td>OWASP DevSlop</td>
+						<td>Exploring Policy as Code for Cloud Infrastructure</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/exploring-policy-as-code" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/tracypholmes/policy-as-code-workshop" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://youtu.be/eFGqqTz_5QY" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>04.29.2021</td>
 						<td>GIDS Live 2021</td>
 						<td>An introduction to zero trust security</td>
