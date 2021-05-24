@@ -15,10 +15,18 @@ nav-menu: true
             </header>
             <div class="row">
                 <div class="inner">
+                    <h3>Essential Infrastructure as Code</h3>
+                    <a href="https://www.manning.com/books/essential-infrastructure-as-code?utm_source=wang888&utm_medium=affiliate&utm_campaign=book_wang_essential_5_14_21&a_aid=wang888&a_bid=b76312ac">
+                    <img src="https://freecontent.manning.com/wp-content/uploads/DOTD_NewMEAP_Wang.png" alt="Essential Infrastructure as Code">
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="inner">
                     <h3>Blog</h3>
                     <ul class="icons">
                         <li><a href="https://medium.com/@joatmon08" target="_blank" class="icon alt fa-medium"><span
-                                    class="label">LinkedIn</span></a></li>
+                                    class="label">Medium</span></a></li>
                     </ul>
                 </div>
             </div>
