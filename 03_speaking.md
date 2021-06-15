@@ -45,7 +45,13 @@ nav-menu: true
 						<td><a href="https://cdcon2021.sched.com/event/iAX7?iframe=no">Supercharge Cloud Migration with Progressive Delivery</a></td>
 					</tr>
 				</tbody>
-
+				<tbody>
+					<tr>
+						<td>06.30.2021 at 13:00 EDT</td>
+						<td>Cloud Native @Scale Meetup</td>
+						<td><a href="https://www.meetup.com/cloudnativescale/events/278279563/">Security & Policy Configurations for Infrastructure as Code</a></td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 	</div>
