@@ -26,13 +26,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>06.15.2021 at 17:30 EDT</td>
-						<td>live@manning</td>
-						<td><a href="https://freecontent.manning.com/livemanning-conferences-developer-productivity">Balancing Developer Productivity & Security</a></td>
-					</tr>
-				</tbody>
-				<tbody>
-					<tr>
 						<td>06.16.2021 at 7:15 EDT</td>
 						<td>stackconf</td>
 						<td><a href="https://stackconf.eu/talks/stretching-the-service-mesh-beyond-the-clouds/">Stretching the Service Mesh Beyond the Clouds</a></td>
@@ -74,6 +67,14 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>06.15.2021</td>
+						<td>live@manning</td>
+						<td>Balancing Developer Productivity & Security</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/balancing-developer-productivity-and-security" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>05.23.2021</td>
 						<td>OWASP DevSlop</td>
