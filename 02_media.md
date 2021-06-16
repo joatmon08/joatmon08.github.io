@@ -83,7 +83,7 @@ nav-menu: true
                     <h3>Host & Producer</h3>
                     <ul class="unordered">
                         <li><a href="https://soundcloud.com/hashicast" target="_blank"><span class="label">HashiCast</span></a></li>
-                        <li><a href="https://www.twitch.tv/hashicorplive" target="_blank"><span class="label">HashiCast</span></a></li>
+                        <li><a href="https://www.twitch.tv/hashicorplive" target="_blank"><span class="label">HashiCorpLive</span></a></li>
                     </ul>
                 </div>
             </div>
