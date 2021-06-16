@@ -26,13 +26,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>06.16.2021 at 7:15 EDT</td>
-						<td>stackconf</td>
-						<td><a href="https://stackconf.eu/talks/stretching-the-service-mesh-beyond-the-clouds/">Stretching the Service Mesh Beyond the Clouds</a></td>
-					</tr>
-				</tbody>
-				<tbody>
-					<tr>
 						<td>06.23.2021 at 10:05 EDT</td>
 						<td>DevSecCon24</td>
 						<td><a href="https://events.bizzabo.com/308842/agenda/session/565694">I Spy: An Insecure Delivery Pipeline</a></td>
@@ -73,6 +66,14 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>06.16.2021</td>
+						<td>stackconf</td>
+						<td>Stretching the Service Mesh Beyond the Clouds</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/stretching-the-service-mesh-beyond-the-clouds" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>06.15.2021</td>
 						<td>live@manning</td>
