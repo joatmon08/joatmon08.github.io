@@ -93,6 +93,14 @@ nav-menu: true
 						</td>
 					</tr>
 					<tr>
+						<td>05.13.2021</td>
+						<td>Commit.dev</td>
+						<td>A day in the life of Developer Relations</td>
+						<td>
+							<a href="https://youtu.be/KNUK0S_p5kM" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>04.29.2021</td>
 						<td>GIDS Live 2021</td>
 						<td>An introduction to zero trust security</td>
