@@ -33,7 +33,7 @@ nav-menu: true
 				</tbody>
 				<tbody>
 					<tr>
-						<td>06.23.2021 at 17:45 EDT</td>
+						<td>06.23.2021 at 17:40 EDT</td>
 						<td>cdCon</td>
 						<td><a href="https://cdcon2021.sched.com/event/iAX7?iframe=no">Supercharge Cloud Migration with Progressive Delivery</a></td>
 					</tr>
