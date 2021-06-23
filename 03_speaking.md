@@ -26,13 +26,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>06.23.2021 at 17:40 EDT</td>
-						<td>cdCon</td>
-						<td><a href="https://cdcon2021.sched.com/event/iAX7?iframe=no">Supercharge Cloud Migration with Progressive Delivery</a></td>
-					</tr>
-				</tbody>
-				<tbody>
-					<tr>
 						<td>06.30.2021 at 13:00 EDT</td>
 						<td>Cloud Native @Scale Meetup</td>
 						<td><a href="https://www.meetup.com/cloudnativescale/events/278279563/">Security & Policy Configurations for Infrastructure as Code</a></td>
@@ -59,6 +52,14 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>06.23.2021</td>
+						<td>cdCon</td>
+						<td>Supercharge Cloud Migration with Progressive Delivery</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/supercharge-cloud-migration-with-progressive-delivery" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>06.23.2021</td>
 						<td>DevSecCon24</td>
