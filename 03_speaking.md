@@ -66,7 +66,14 @@ nav-menu: true
 						<td>I Spy: An Insecure Delivery Pipeline</td>
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/i-spy-an-insecure-delivery-pipeline" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://youtu.be/Ljof-WI0C8I" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
+					</tr>
+					<tr>
+						<td>06.17.2021</td>
+						<td>stackconf</td>
+						<td>Live Panel</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>06.16.2021</td>
@@ -82,6 +89,7 @@ nav-menu: true
 						<td>Balancing Developer Productivity & Security</td>
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/balancing-developer-productivity-and-security" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://youtu.be/jK_xLsDPrek" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
