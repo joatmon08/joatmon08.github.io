@@ -81,6 +81,8 @@ nav-menu: true
 						<td>Stretching the Service Mesh Beyond the Clouds</td>
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/stretching-the-service-mesh-beyond-the-clouds" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/joatmon08/cloud-migration" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://www.youtube.com/watch?v=whkF5VRtzYI" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
