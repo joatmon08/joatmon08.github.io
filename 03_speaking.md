@@ -25,11 +25,11 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
+					<!-- <tr>
 						<td>06.30.2021 at 13:00 EDT</td>
 						<td>Cloud Native @Scale Meetup</td>
 						<td><a href="https://www.meetup.com/cloudnativescale/events/278279563/">Security & Policy Configurations for Infrastructure as Code</a></td>
-					</tr>
+					</tr> -->
 				</tbody>
 			</table>
 		</div>
@@ -52,6 +52,14 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>06.30.2021</td>
+						<td>Cloud Native @Scale Meetup</td>
+						<td>Security & Policy Configurations for Infrastructure as Code</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/security-and-policy-configurations-for-infrastructure-as-code" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>06.23.2021</td>
 						<td>cdCon</td>
