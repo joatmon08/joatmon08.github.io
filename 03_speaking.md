@@ -66,6 +66,7 @@ nav-menu: true
 						<td>Supercharge Cloud Migration with Progressive Delivery</td>
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/supercharge-cloud-migration-with-progressive-delivery" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://www.youtube.com/watch?v=WONxRSAhR_w" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
