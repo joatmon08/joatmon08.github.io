@@ -27,6 +27,7 @@ nav-menu: true
 						Recently, Rosemary has been writing her upcoming book, <i>Essential Infrastructure as Code</i>.
 						When she is not drawing on whiteboards, Rosemary valiantly attempts to hack stacks of various
 						infrastructure systems on her laptop while watering her houseplants.</p>
+					<p><a href="assets/images/speaker_headshot.jpg">Download a Speaker Photo</a></p>
 				</div>
 			</div>
 		</div>
