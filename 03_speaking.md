@@ -25,11 +25,16 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<!-- <tr>
-						<td>06.30.2021 at 13:00 EDT</td>
-						<td>Cloud Native @Scale Meetup</td>
-						<td><a href="https://www.meetup.com/cloudnativescale/events/278279563/">Security & Policy Configurations for Infrastructure as Code</a></td>
-					</tr> -->
+					<tr>
+						<td>07.22.2021 at 18:53 PDT</td>
+						<td>HashiTalks: Build</td>
+						<td><a href="https://events.hashicorp.com/hashitalksbuild">Let’s Code: Building a Secrets Engine for Vault</a></td>
+					</tr>
+					<tr>
+						<td>08.10.2021 at 7:00PM EDT</td>
+						<td>live@manning</td>
+						<td><a href="https://freecontent.manning.com/manning-on-twitch-calendar-live-author-appearances/">Manage your infrastructure as code dependencies</a></td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
