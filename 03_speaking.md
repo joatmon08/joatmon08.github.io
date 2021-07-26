@@ -63,6 +63,7 @@ nav-menu: true
 						<td>Security & Policy Configurations for Infrastructure as Code</td>
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/security-and-policy-configurations-for-infrastructure-as-code" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://www.youtube.com/watch?v=djAR9YDyT54" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
