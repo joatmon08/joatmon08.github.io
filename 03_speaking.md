@@ -26,14 +26,14 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>07.22.2021 at 18:53 PDT</td>
-						<td>HashiTalks: Build</td>
-						<td><a href="https://events.hashicorp.com/hashitalksbuild">Let’s Code: Building a Secrets Engine for Vault</a></td>
-					</tr>
-					<tr>
 						<td>08.10.2021 at 7:00PM EDT</td>
 						<td>live@manning</td>
 						<td><a href="https://freecontent.manning.com/manning-on-twitch-calendar-live-author-appearances/">Manage your infrastructure as code dependencies</a></td>
+					</tr>
+					<tr>
+						<td>08.12.2021 at 7:15PM EDT</td>
+						<td>Cloud Computing San Antonio</td>
+						<td><a href="https://www.meetup.com/cloud-computing-san-antonio/events/279811753/">Automate to Approach Zero Trust Security</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -57,6 +57,23 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>07.22.2021</td>
+						<td>HashiTalks: Build</td>
+						<td>Let’s Code: Building a Secrets Engine for Vault</td>
+						<td>
+							<a href="https://github.com/joatmon08/vault-plugin-secrets-hashicups" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://youtu.be/rn6PyZbagzY" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
+						<td>07.22.2021</td>
+						<td>HashiTalks: Build</td>
+						<td>Panel: The GitHub and PagerDuty Terraform Provider</td>
+						<td>
+							<a href="https://youtu.be/_ogg27PrXZY" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>06.30.2021</td>
 						<td>Cloud Native @Scale Meetup</td>
