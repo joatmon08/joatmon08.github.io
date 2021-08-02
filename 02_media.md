@@ -75,6 +75,8 @@ nav-menu: true
                         <li><a href="https://devopsspeakeasy.podbean.com/e/devops-speakeasy-podcast-s01e02-rosemary-wang-on-everything-hashicorp/" target="_blank"><span class="label">DevOps Speakeasy S01E02</span></a></li>
                         <li><a href="https://packetpushers.net/podcast/tech-bytes-using-hashicorps-terraform-cloud-for-collaboration-and-governance-sponsored/?doing_wp_cron=1596072923.6274049282073974609375" target="_blank"><span class="label">Packet Pushers: Tech Bytes</span></a></li>
                         <li><a href="https://techstringy.wordpress.com/2019/09/04/infrastructure-as-code-101-rosemary-wang-ep-104/" target="_blank"><span class="label">TechStringy Ep 104: Infrastructure 101</span></a></li>
+                        <li><a href="https://www.devopsparadox.com/episodes/essential-infrastructure-as-code-112/" target="_blank"><span class="label">DevOps Paradox Ep 112: Essential Infrastructure as Code</span></a></li>
+                        <li><a href="https://devchat.tv/adventures-in-devops/essential-infrastructure-as-code-devops-079/" target="_blank"><span class="label">Adventures in DevOps: Essential Infrastructure as Code – DevOps 079</span></a></li>
                     </ul>
                 </div>
             </div>
