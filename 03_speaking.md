@@ -35,6 +35,16 @@ nav-menu: true
 						<td>Cloud Computing San Antonio</td>
 						<td><a href="https://www.meetup.com/cloud-computing-san-antonio/events/279811753/">Automate to Approach Zero Trust Security</a></td>
 					</tr>
+					<tr>
+						<td>09.17.2021 at 9:00AM PDT</td>
+						<td>O'Reilly Online Training</td>
+						<td><a href="https://www.oreilly.com/attend/infrastructure-as-code/0636920060245/0636920060244/">Infrastructure as Code</a></td>
+					</tr>
+					<tr>
+						<td>11.09.2021 at 6:00AM PDT</td>
+						<td>O'Reilly Online Training</td>
+						<td><a href="">Infrastructure as Code</a></td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
