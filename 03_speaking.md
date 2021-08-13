@@ -26,16 +26,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>08.10.2021 at 7:00PM EDT</td>
-						<td>live@manning</td>
-						<td><a href="https://freecontent.manning.com/manning-on-twitch-calendar-live-author-appearances/">Manage your infrastructure as code dependencies</a></td>
-					</tr>
-					<tr>
-						<td>08.12.2021 at 7:15PM EDT</td>
-						<td>Cloud Computing San Antonio</td>
-						<td><a href="https://www.meetup.com/cloud-computing-san-antonio/events/279811753/">Automate to Approach Zero Trust Security</a></td>
-					</tr>
-					<tr>
 						<td>09.17.2021 at 9:00AM PDT</td>
 						<td>O'Reilly Online Training</td>
 						<td><a href="https://www.oreilly.com/attend/infrastructure-as-code/0636920060245/0636920060244/">Infrastructure as Code</a></td>
@@ -67,6 +57,25 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>08.12.2021</td>
+						<td>Cloud Computing San Antonio</td>
+						<td>Automate to Approach Zero Trust Security</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/automate-to-approach-zero-trust-security" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/joatmon08/hashicorp-stack-demoapp" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://www.youtube.com/watch?v=ZpgWVsGErh0" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
+						<td>08.10.2021</td>
+						<td>ManningPublications on Twitch</td>
+						<td>Manage your infrastructure as code dependencies</td>
+						<td>
+							<a href="https://github.com/joatmon08/manning-book/tree/main/live" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://www.twitch.tv/videos/1114832142" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>07.22.2021</td>
 						<td>HashiTalks: Build</td>
