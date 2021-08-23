@@ -31,6 +31,11 @@ nav-menu: true
 						<td><a href="https://www.oreilly.com/attend/infrastructure-as-code/0636920060245/0636920060244/">Infrastructure as Code</a></td>
 					</tr>
 					<tr>
+						<td>09.18.2021 at 6:00AM EDT</td>
+						<td>DevOpsDays Istanbul</td>
+						<td><a href="https://devopsdays.istanbul/">Secrets Management for Development and Operations</a></td>
+					</tr>
+					<tr>
 						<td>11.09.2021 at 6:00AM PDT</td>
 						<td>O'Reilly Online Training</td>
 						<td><a href="">Infrastructure as Code</a></td>
