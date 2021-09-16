@@ -26,14 +26,14 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>09.17.2021 at 9:00AM PDT</td>
-						<td>O'Reilly Online Training</td>
-						<td><a href="https://www.oreilly.com/attend/infrastructure-as-code/0636920060245/0636920060244/">Infrastructure as Code</a></td>
-					</tr>
-					<tr>
 						<td>09.18.2021 at 6:00AM EDT</td>
 						<td>DevOpsDays Istanbul</td>
 						<td><a href="https://devopsdays.istanbul/">Secrets Management for Development and Operations</a></td>
+					</tr>
+					<tr>
+						<td>10.19.2021-10.20.2021 at Time TBD</td>
+						<td>Cisco DevNet Create</td>
+						<td><a href="https://developer.cisco.com/devnetcreate/2021/home">Security Tests for Security Groups, Shifted Left</a></td>
 					</tr>
 					<tr>
 						<td>11.09.2021 at 6:00AM PDT</td>
@@ -62,6 +62,15 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>09.17.2021</td>
+						<td>O'Reilly Live Training</td>
+						<td>Infrastructure as Code</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/infrastructure-as-code-oreilly-live-training" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/joatmon08/olt-infrastructure-as-code" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>08.12.2021</td>
 						<td>Cloud Computing San Antonio</td>

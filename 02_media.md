@@ -35,6 +35,10 @@ nav-menu: true
                     <h3>Articles</h3>
                     <p>Below are additional articles published outside of my personal blog.</p>
                     <ul class="unordered">
+                        <li><a href="https://www.hashicorp.com/blog/using-hashicorp-consul-with-kong-ingress-controller-for-kubernetes" target="_blank"><span
+                                    class="label">Using HashiCorp Consul with Kong Ingress Controller for Kubernetes</span></a></li>
+                        <li><a href="https://www.hashicorp.com/blog/automated-canary-deployment-with-hashicorp-consul-and-spinnaker" target="_blank"><span
+                                    class="label">Automated Canary Deployment with HashiCorp Consul and Spinnaker</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/testing-hashicorp-terraform" target="_blank"><span
                                     class="label">Testing HashiCorp Terraform</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/managing-hashicorp-consul-access-control-lists-with-terraform-and-vault" target="_blank"><span
