@@ -38,7 +38,7 @@ nav-menu: true
 					<tr>
 						<td>11.09.2021 at 6:00AM PDT</td>
 						<td>O'Reilly Online Training</td>
-						<td><a href="">Infrastructure as Code</a></td>
+						<td><a href="https://www.oreilly.com/live-events/infrastructure-as-code/0636920060245/0636920062139/">Infrastructure as Code</a></td>
 					</tr>
 				</tbody>
 			</table>
