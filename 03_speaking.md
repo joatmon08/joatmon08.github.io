@@ -26,11 +26,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>09.18.2021 at 6:00AM EDT</td>
-						<td>DevOpsDays Istanbul</td>
-						<td><a href="https://devopsdays.istanbul/">Secrets Management for Development and Operations</a></td>
-					</tr>
-					<tr>
 						<td>10.19.2021-10.20.2021 at Time TBD</td>
 						<td>Cisco DevNet Create</td>
 						<td><a href="https://developer.cisco.com/devnetcreate/2021/home">Security Tests for Security Groups, Shifted Left</a></td>
@@ -62,6 +57,15 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>09.18.2021</td>
+						<td>DevOpsDays Istanbul</td>
+						<td>Secrets Management for Development and Operations</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/secrets-management-for-development-and-operations" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://www.youtube.com/watch?v=J14LU5H2olk" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>09.17.2021</td>
 						<td>O'Reilly Live Training</td>
