@@ -26,12 +26,12 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>10.19.2021-10.20.2021 at Time TBD</td>
+						<td>10.20.2021 at 10AM PDT</td>
 						<td>Cisco DevNet Create</td>
-						<td><a href="https://developer.cisco.com/devnetcreate/2021/home">Security Tests for Security Groups, Shifted Left</a></td>
+						<td><a href="https://developer.cisco.com/devnetcreate/2021/agenda">Security Tests for Security Groups, Shifted Left</a></td>
 					</tr>
 					<tr>
-						<td>11.09.2021 at 6:00AM PDT</td>
+						<td>11.09.2021 at 6:00AM PST</td>
 						<td>O'Reilly Online Training</td>
 						<td><a href="https://www.oreilly.com/live-events/infrastructure-as-code/0636920060245/0636920062139/">Infrastructure as Code</a></td>
 					</tr>
