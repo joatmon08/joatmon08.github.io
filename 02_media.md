@@ -15,9 +15,10 @@ nav-menu: true
             </header>
             <div class="row">
                 <div class="inner">
-                    <h3>Essential Infrastructure as Code</h3>
-                    <a href="https://www.manning.com/books/essential-infrastructure-as-code?utm_source=wang888&utm_medium=affiliate&utm_campaign=book_wang_essential_5_14_21&a_aid=wang888&a_bid=b76312ac">
-                    <img src="https://freecontent.manning.com/wp-content/uploads/DOTD_NewMEAP_Wang.png" alt="Essential Infrastructure as Code">
+                    <h3>Books</h3>
+                    <h4>Patterns and Practices for Infrastructure as Code</h4>
+                    <a href="https://www.manning.com/books/patterns-and-practices-for-infrastructure-as-code?utm_source=wang888&utm_medium=affiliate&utm_campaign=book_wang_essential_5_14_21&a_aid=wang888&a_bid=b76312ac" target="_blank">
+                    <img src="assets/images/book.jpg" alt="Patterns and Practices for Infrastructure as Code">
                     </a>
                 </div>
             </div>
@@ -89,7 +90,8 @@ nav-menu: true
                     <h3>Host & Producer</h3>
                     <ul class="unordered">
                         <li><a href="https://soundcloud.com/hashicast" target="_blank"><span class="label">HashiCast</span></a></li>
-                        <li><a href="https://www.twitch.tv/hashicorplive" target="_blank"><span class="label">HashiCorpLive</span></a></li>
+                        <li><a href="https://www.twitch.tv/hashicorplive" target="_blank"><span class="label">HashiCorp Live</span></a></li>
+                        <li><a href="https://www.youtube.com/playlist?list=PL81sUbsFNc5b8i2g2sB_tG-PuZxEdlDpK" target="_blank"><span class="label">Getting into HashiCorp Consul</span></a></li>
                     </ul>
                 </div>
             </div>
