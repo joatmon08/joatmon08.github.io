@@ -26,11 +26,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>10.20.2021 at 10AM PDT</td>
-						<td>Cisco DevNet Create</td>
-						<td><a href="https://developer.cisco.com/devnetcreate/2021/agenda">Security Tests for Security Groups, Shifted Left</a></td>
-					</tr>
-					<tr>
 						<td>11.09.2021 at 6:00AM PST</td>
 						<td>O'Reilly Online Training</td>
 						<td><a href="https://www.oreilly.com/live-events/infrastructure-as-code/0636920060245/0636920062139/">Infrastructure as Code</a></td>
@@ -57,6 +52,16 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>10.20.2021</td>
+						<td>Cisco DevNet Create</td>
+						<td>Security Tests for Security Groups, Shifted Left</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/security-tests-for-security-groups-shifted-left" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/joatmon08/terraform-aci-esg-nia" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://youtu.be/bg8ZBSTPOzA" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>09.18.2021</td>
 						<td>DevOpsDays Istanbul</td>

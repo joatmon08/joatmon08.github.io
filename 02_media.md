@@ -82,6 +82,7 @@ nav-menu: true
                         <li><a href="https://techstringy.wordpress.com/2019/09/04/infrastructure-as-code-101-rosemary-wang-ep-104/" target="_blank"><span class="label">TechStringy Ep 104: Infrastructure 101</span></a></li>
                         <li><a href="https://www.devopsparadox.com/episodes/essential-infrastructure-as-code-112/" target="_blank"><span class="label">DevOps Paradox Ep 112: Essential Infrastructure as Code</span></a></li>
                         <li><a href="https://devchat.tv/adventures-in-devops/essential-infrastructure-as-code-devops-079/" target="_blank"><span class="label">Adventures in DevOps: Essential Infrastructure as Code – DevOps 079</span></a></li>
+                        <li><a href="https://developer.confluent.io/podcast/automating-infrastructure-as-code-with-apache-kafka-and-confluent-ft-rosemary-wang" target="_blank"><span class="label">Automating Infrastructure as Code with Apache Kafka and Confluent ft. Rosemary Wang</span></a></li>
                     </ul>
                 </div>
             </div>
