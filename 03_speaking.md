@@ -21,14 +21,16 @@ nav-menu: true
 					<tr>
 						<th>Date & Time</th>
 						<th>Conference/Meetup</th>
+						<th>Title</th>
 						<th>Location</th>
 					</tr>
 				</thead>
 				<tbody>
 					<tr>
-						<td>11.09.2021 at 6:00AM PST</td>
-						<td>O'Reilly Online Training</td>
-						<td><a href="https://www.oreilly.com/live-events/infrastructure-as-code/0636920060245/0636920062139/">Infrastructure as Code</a></td>
+						<td>12.02.2021 at 1:45PM PDT</td>
+						<td>AWS Re:invent</td>
+						<td><a href="https://reinvent.awsevents.com/register">SEC303-S-OF: Zero Trust foundations in Amazon ECS with Boundary, Vault, and Consul (sponsored by HashiCorp)</a></td>
+						<td>Level 4, Delfino 4006, Venetian</td>
 					</tr>
 				</tbody>
 			</table>
@@ -52,6 +54,15 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>11.09.2021</td>
+						<td>O'Reilly Live Training</td>
+						<td>Infrastructure as Code</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/infrastructure-as-code-oreilly-live-training" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/joatmon08/olt-infrastructure-as-code" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>10.20.2021</td>
 						<td>Cisco DevNet Create</td>
