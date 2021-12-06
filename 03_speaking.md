@@ -26,12 +26,12 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
+					<!-- <tr>
 						<td>12.02.2021 at 1:45PM PDT</td>
 						<td>AWS Re:invent</td>
-						<td><a href="https://reinvent.awsevents.com/register">SEC303-S-OF: Zero Trust foundations in Amazon ECS with Boundary, Vault, and Consul (sponsored by HashiCorp)</a></td>
+						<td><a href="https://reinvent.awsevents.com/register">SEC303-S: </a></td>
 						<td>Level 4, Delfino 4006, Venetian</td>
-					</tr>
+					</tr> -->
 				</tbody>
 			</table>
 		</div>
@@ -54,6 +54,15 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>12.02.2021</td>
+						<td>AWS re:Invent</td>
+						<td>Zero Trust foundations in Amazon ECS with Boundary, Vault, and Consul (sponsored by HashiCorp)</td>
+						<td>
+							<a href="https://www.youtube.com/watch?v=i1YFh4svRLg" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+							<a href="https://github.com/joatmon08/hashicorp-aws-zero-trust" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>11.09.2021</td>
 						<td>O'Reilly Live Training</td>
