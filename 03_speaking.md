@@ -26,12 +26,12 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<!-- <tr>
-						<td>12.02.2021 at 1:45PM PDT</td>
-						<td>AWS Re:invent</td>
-						<td><a href="https://reinvent.awsevents.com/register">SEC303-S: </a></td>
-						<td>Level 4, Delfino 4006, Venetian</td>
-					</tr> -->
+					<tr>
+						<td>03.23.2022 at 9:45AM PT</td>
+						<td>Code to Cloud Virtual Summit</td>
+						<td>Security vs. Delivery: Win with Dependency Inversion</td>
+						<td><a href="https://start.paloaltonetworks.com/code-to-cloud-summit#Register">Register</a></td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
@@ -54,6 +54,24 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>02.10.2022</td>
+						<td>GitOps Guide to the Galaxy</td>
+						<td>Episode 32 | GitOps with HashiCorp Vault (Part 2)</td>
+						<td>
+							<a href="https://youtu.be/lRPjxC8CSRk" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+							<a href="https://github.com/joatmon08/vault-argocd/tree/part-2" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
+					<tr>
+						<td>01.27.2022</td>
+						<td>GitOps Guide to the Galaxy</td>
+						<td>Episode 31 | GitOps with HashiCorp Vault (Part 1)</td>
+						<td>
+							<a href="https://www.youtube.com/watch?v=Bce_0qa6ias" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+							<a href="https://github.com/joatmon08/vault-argocd/tree/part-1" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>12.02.2021</td>
 						<td>AWS re:Invent</td>
