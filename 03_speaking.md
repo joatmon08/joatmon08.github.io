@@ -55,6 +55,15 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>03.01.2022</td>
+						<td>DevOps Lab</td>
+						<td>Getting Started with HashiCorp Boundary and Azure</td>
+						<td>
+							<a href="https://www.youtube.com/watch?v=Hjb2wEf30rc" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+							<a href="https://github.com/joatmon08/hashicorp-azure-zero-trust" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>02.10.2022</td>
 						<td>GitOps Guide to the Galaxy</td>
 						<td>Episode 32 | GitOps with HashiCorp Vault (Part 2)</td>
