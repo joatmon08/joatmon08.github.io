@@ -27,10 +27,10 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>03.23.2022 at 9:45AM PT</td>
-						<td>Code to Cloud Virtual Summit</td>
-						<td>Security vs. Delivery: Win with Dependency Inversion</td>
-						<td><a href="https://start.paloaltonetworks.com/code-to-cloud-summit#Register">Register</a></td>
+						<td>04.28.2022 at 1:00PM ET</td>
+						<td>Conf42: Cloud Native 2022</td>
+						<td>A Developer's Introduction to Service Mesh</td>
+						<td><a href="https://www.conf42.com/Cloud_Native_2022_Rosemary_Wang_introduction_service_mesh">Online</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -54,6 +54,12 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>03.23.2022</td>
+						<td>Code to Cloud Virtual Summit</td>
+						<td>Security vs. Delivery: Win with Dependency Inversion</td>
+						<td><a href="https://start.paloaltonetworks.com/code-to-cloud-summit#Register">Register</a></td>
+					</tr>
 					<tr>
 						<td>03.01.2022</td>
 						<td>DevOps Lab</td>
