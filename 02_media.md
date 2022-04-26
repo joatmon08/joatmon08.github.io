@@ -16,9 +16,9 @@ nav-menu: true
             <div class="row">
                 <div class="inner">
                     <h3>Books</h3>
-                    <h4>Patterns and Practices for Infrastructure as Code</h4>
+                    <h4>Infrastructure as Code, Patterns & Practices</h4>
                     <a href="https://www.manning.com/books/patterns-and-practices-for-infrastructure-as-code?utm_source=wang888&utm_medium=affiliate&utm_campaign=book_wang_essential_5_14_21&a_aid=wang888&a_bid=b76312ac" target="_blank">
-                    <img src="assets/images/book.jpg" alt="Patterns and Practices for Infrastructure as Code">
+                    <img src="assets/images/book.jpg" alt="Infrastructure as Code, Patterns & Practices">
                     </a>
                 </div>
             </div>
