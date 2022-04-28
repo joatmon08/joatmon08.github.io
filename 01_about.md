@@ -25,7 +25,7 @@ nav-menu: true
 					    and application development. She has a fascination for solving intractable problems
 						as a contributor, public speaker, writer, and advocate of open source infrastructure tools.
 						Recently, Rosemary has been writing her upcoming book,
-						<i><a href="https://www.manning.com/books/patterns-and-practices-for-infrastructure-as-code">Patterns and Practices for Infrastructure as Code</a></i>.
+						<i><a href="https://www.manning.com/books/infrastructure-as-code-patterns-and-practices">Infrastructure as Code, Patterns and Practices</a></i>.
 						When she is not drawing on whiteboards, Rosemary debugs stacks of various
 						infrastructure systems on her laptop while watering her houseplants.</p>
 					<p><a href="assets/images/speaker_headshot.jpg">Download a Speaker Photo</a></p>
