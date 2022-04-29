@@ -26,12 +26,24 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<!-- <tr>
-						<td>04.28.2022 at 1:00PM ET</td>
-						<td>Conf42: Cloud Native 2022</td>
-						<td>A Developer's Introduction to Service Mesh</td>
-						<td><a href="https://www.conf42.com/Cloud_Native_2022_Rosemary_Wang_introduction_service_mesh">Online</a></td>
-					</tr> -->
+					<tr>
+						<td>05.11.2022 at 12:15 CET</td>
+						<td>Codemotion: Spanish Edition</td>
+						<td>A Practical Introduction for Minimum Secure Products</td>
+						<td><a href="https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-spring/agenda">Online</a></td>
+					</tr>
+					<tr>
+						<td>06.08.2022 at 8:05AM PT</td>
+						<td>O'Reilly Media Cloud Superstream: Cloud Security</td>
+						<td>Let’s Secure a CI/CD Pipeline</td>
+						<td><a href="https://www.oreilly.com/live-events/cloud-superstream-cloud-security/0636920068516/0636920068515/">Online</a></td>
+					</tr>
+					<tr>
+						<td>06.09.2022</td>
+						<td>GitOpsDays 2022</td>
+						<td>TBD</td>
+						<td><a href="https://www.gitopsdays.com/">Online</a></td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
@@ -58,15 +70,19 @@ nav-menu: true
 						<td>04.28.2022</td>
 						<td>Conf42: Cloud Native 2022</td>
 						<td>A Developer's Introduction to Service Mesh</td>
-						<a href="https://speakerdeck.com/joatmon08/a-developers-introduction-to-service-mesh" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
-						<a href="https://github.com/joatmon08/expense-report" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/a-developers-introduction-to-service-mesh" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/joatmon08/expense-report" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+						</td>
 					</tr>
 					<tr>
 						<td>03.23.2022</td>
 						<td>Code to Cloud Virtual Summit</td>
 						<td>Security vs. Delivery: Win with Dependency Inversion</td>
-						<a href="https://speakerdeck.com/joatmon08/security-vs-delivery-win-with-dependency-inversion" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
-						<td><a href="https://start.paloaltonetworks.com/code-to-cloud-summit#Register">Register</a></td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/security-vs-delivery-win-with-dependency-inversion" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://start.paloaltonetworks.com/code-to-cloud-summit#Register" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
 					</tr>
 					<tr>
 						<td>03.01.2022</td>
