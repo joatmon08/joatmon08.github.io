@@ -89,8 +89,8 @@ nav-menu: true
 						<td>DevOps Lab</td>
 						<td>Getting Started with HashiCorp Boundary and Azure</td>
 						<td>
-							<a href="https://www.youtube.com/watch?v=Hjb2wEf30rc" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 							<a href="https://github.com/joatmon08/hashicorp-azure-zero-trust" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://www.youtube.com/watch?v=Hjb2wEf30rc" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
@@ -98,8 +98,8 @@ nav-menu: true
 						<td>GitOps Guide to the Galaxy</td>
 						<td>Episode 32 | GitOps with HashiCorp Vault (Part 2)</td>
 						<td>
-							<a href="https://youtu.be/lRPjxC8CSRk" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 							<a href="https://github.com/joatmon08/vault-argocd/tree/part-2" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://youtu.be/lRPjxC8CSRk" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
@@ -107,8 +107,8 @@ nav-menu: true
 						<td>GitOps Guide to the Galaxy</td>
 						<td>Episode 31 | GitOps with HashiCorp Vault (Part 1)</td>
 						<td>
-							<a href="https://www.youtube.com/watch?v=Bce_0qa6ias" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 							<a href="https://github.com/joatmon08/vault-argocd/tree/part-1" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://www.youtube.com/watch?v=Bce_0qa6ias" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
@@ -116,8 +116,8 @@ nav-menu: true
 						<td>AWS re:Invent</td>
 						<td>Zero Trust foundations in Amazon ECS with Boundary, Vault, and Consul (sponsored by HashiCorp)</td>
 						<td>
-							<a href="https://www.youtube.com/watch?v=i1YFh4svRLg" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 							<a href="https://github.com/joatmon08/hashicorp-aws-zero-trust" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://www.youtube.com/watch?v=i1YFh4svRLg" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
