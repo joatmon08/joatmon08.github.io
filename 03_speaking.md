@@ -27,12 +27,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>05.11.2022 at 12:15 CET</td>
-						<td>Codemotion: Spanish Edition</td>
-						<td>A Practical Introduction for Minimum Secure Products</td>
-						<td><a href="https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-spring/agenda">Online</a></td>
-					</tr>
-					<tr>
 						<td>06.08.2022 at 8:05AM PT</td>
 						<td>O'Reilly Media Cloud Superstream: Cloud Security</td>
 						<td>Let’s Secure a CI/CD Pipeline</td>
@@ -66,6 +60,15 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>05.11.2022</td>
+						<td>Codemotion: Spanish Edition</td>
+						<td>A Practical Introduction for Minimum Secure Products</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/2022-codemotion-apracticalintroductionforminimumsecureproducts" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<!---<a href="https://start.paloaltonetworks.com/code-to-cloud-summit#Register" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>-->
+						</td>
+					</tr>
 					<tr>
 						<td>04.28.2022</td>
 						<td>Conf42: Cloud Native 2022</td>
