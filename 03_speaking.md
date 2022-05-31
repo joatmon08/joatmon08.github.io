@@ -27,16 +27,22 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>06.08.2022 at 8:05AM PT</td>
+						<td>06.08.2022 at 8:05 PT</td>
 						<td>O'Reilly Media Cloud Superstream: Cloud Security</td>
 						<td>Let’s Secure a CI/CD Pipeline</td>
 						<td><a href="https://www.oreilly.com/live-events/cloud-superstream-cloud-security/0636920068516/0636920068515/">Online</a></td>
 					</tr>
 					<tr>
-						<td>06.09.2022</td>
+						<td>06.08.2022 at 13:25 PT</td>
 						<td>GitOpsDays 2022</td>
-						<td>TBD</td>
+						<td>Securing Kubernetes Secrets for GitOps with HashiCorp Vault</td>
 						<td><a href="https://www.gitopsdays.com/">Online</a></td>
+					</tr>
+					<tr>
+						<td>06.29.2022</td>
+						<td>Summer Systems @Scale 2022</td>
+						<td>Managing Services: Part 2 - Lessons Learned from Scaling Infrastructure as Code</td>
+						<td><a href="https://atscaleconference.com/events/summer-systems-scale-2022/">Online</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -66,7 +72,7 @@ nav-menu: true
 						<td>A Practical Introduction for Minimum Secure Products</td>
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/2022-codemotion-apracticalintroductionforminimumsecureproducts" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
-							<!---<a href="https://start.paloaltonetworks.com/code-to-cloud-summit#Register" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>-->
+							<a href="https://talks.codemotion.com/a-practical-introduction-for-minimum-sec?playlist=online-tech-conference-2022---spanish-ed" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
