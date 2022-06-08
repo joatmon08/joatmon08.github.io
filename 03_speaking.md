@@ -27,12 +27,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>06.08.2022 at 8:05 PT</td>
-						<td>O'Reilly Media Cloud Superstream: Cloud Security</td>
-						<td>Let’s Secure a CI/CD Pipeline</td>
-						<td><a href="https://www.oreilly.com/live-events/cloud-superstream-cloud-security/0636920068516/0636920068515/">Online</a></td>
-					</tr>
-					<tr>
 						<td>06.08.2022 at 13:25 PT</td>
 						<td>GitOpsDays 2022</td>
 						<td>Securing Kubernetes Secrets for GitOps with HashiCorp Vault</td>
@@ -66,6 +60,15 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>06.08.2022</td>
+						<td>O'Reilly Media Cloud Superstream: Cloud Security</td>
+						<td>Let’s Secure a CI/CD Pipeline</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/20220608-oreillycloudsuperstream-letssecureacicdpipeline" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://www.oreilly.com/live-events/cloud-superstream-cloud-security/0636920068516/0636920068515/" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>05.11.2022</td>
 						<td>Codemotion: Spanish Edition</td>
