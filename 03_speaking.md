@@ -27,12 +27,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>06.08.2022 at 13:25 PT</td>
-						<td>GitOpsDays 2022</td>
-						<td>Securing Kubernetes Secrets for GitOps with HashiCorp Vault</td>
-						<td><a href="https://www.gitopsdays.com/">Online</a></td>
-					</tr>
-					<tr>
 						<td>06.29.2022</td>
 						<td>Summer Systems @Scale 2022</td>
 						<td>Managing Services: Part 2 - Lessons Learned from Scaling Infrastructure as Code</td>
@@ -62,10 +56,20 @@ nav-menu: true
 				<tbody>
 					<tr>
 						<td>06.08.2022</td>
+						<td>GitOpsDays 2022</td>
+						<td>Securing Kubernetes Secrets for GitOps with HashiCorp Vault</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/20220519-kubeconflux-secureyoursecretsingitops" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/joatmon08/hashicorp-vault-flux" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://youtu.be/qm18DJo1vB8?t=24193" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
+						<td>06.08.2022</td>
 						<td>O'Reilly Media Cloud Superstream: Cloud Security</td>
 						<td>Let’s Secure a CI/CD Pipeline</td>
 						<td>
-							<a href="https://speakerdeck.com/joatmon08/20220608-oreillycloudsuperstream-letssecureacicdpipeline" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://speakerdeck.com/joatmon08/20220608-oreillycloudsuperstream-letssecureacicdpipeline" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 							<a href="https://www.oreilly.com/live-events/cloud-superstream-cloud-security/0636920068516/0636920068515/" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
