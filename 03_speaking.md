@@ -27,6 +27,14 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>06.22.2022</td>
+						<td>HashiConf Europe</td>
+						<td>Secure Together: Consul + Vault</td>
+						<td><a href="https://hashiconf.com/europe/schedule/in-person/secure-together-consul-vault/">Amsterdam</a></td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
 						<td>06.29.2022</td>
 						<td>Summer Systems @Scale 2022</td>
 						<td>Managing Services: Part 2 - Lessons Learned from Scaling Infrastructure as Code</td>
