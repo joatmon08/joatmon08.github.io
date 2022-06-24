@@ -102,6 +102,14 @@ nav-menu: true
 						</td>
 					</tr>
 					<tr>
+						<td>04.28.2022</td>
+						<td>Bret Fisher Docker and DevOps</td>
+						<td>Infrastructure as Code (IaC) with Rosemary Wang: DevOps and Docker Live Show (Ep 168)</td>
+						<td>
+							<a href="https://www.youtube.com/watch?v=Gm8I7Sm8X_A" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>03.23.2022</td>
 						<td>Code to Cloud Virtual Summit</td>
 						<td>Security vs. Delivery: Win with Dependency Inversion</td>
