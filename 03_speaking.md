@@ -30,7 +30,7 @@ nav-menu: true
 						<td>06.29.2022</td>
 						<td>Summer Systems @Scale 2022</td>
 						<td>Managing Services: Part 2 - Lessons Learned from Scaling Infrastructure as Code</td>
-						<td><a href="https://atscaleconference.com/events/summer-systems-scale-2022/">Online</a></td>
+						<td><a href="https://summersystemsscale2022.splashthat.com/">Online</a></td>
 					</tr>
 				</tbody>
 			</table>
