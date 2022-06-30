@@ -26,12 +26,12 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
+					<!-- <tr>
 						<td>06.29.2022</td>
 						<td>Summer Systems @Scale 2022</td>
 						<td>Managing Services: Part 2 - Lessons Learned from Scaling Infrastructure as Code</td>
 						<td><a href="https://summersystemsscale2022.splashthat.com/">Online</a></td>
-					</tr>
+					</tr> -->
 				</tbody>
 			</table>
 		</div>
@@ -54,6 +54,15 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>06.29.2022</td>
+						<td>Summer Systems @Scale 2022</td>
+						<td>Managing Services: Part 2 - Lessons Learned from Scaling Infrastructure as Code</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/lessons-learned-from-scaling-infrastructure-as-code" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<!-- <a href="https://youtu.be/qm18DJo1vB8?t=24193" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+						</td>
+					</tr>
 					<tr>
 						<td>06.22.2022</td>
 						<td>HashiConf Europe 2022</td>
