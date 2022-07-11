@@ -70,7 +70,7 @@ nav-menu: true
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/secure-together-consul-plus-vault" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 							<a href="https://github.com/joatmon08/hashicorp-stack-demoapp" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
-							<!-- <a href="https://youtu.be/qm18DJo1vB8?t=24193" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+							<a href="https://www.youtube.com/watch?v=GkPtK7BmvjA" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
