@@ -60,7 +60,7 @@ nav-menu: true
 						<td>Managing Services: Part 2 - Lessons Learned from Scaling Infrastructure as Code</td>
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/lessons-learned-from-scaling-infrastructure-as-code" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
-							<!-- <a href="https://youtu.be/qm18DJo1vB8?t=24193" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+							<a href="https://www.facebook.com/watch/?v=601523354638953" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
