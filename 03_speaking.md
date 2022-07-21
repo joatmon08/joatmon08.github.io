@@ -26,12 +26,12 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<!-- <tr>
-						<td>06.29.2022</td>
-						<td>Summer Systems @Scale 2022</td>
-						<td>Managing Services: Part 2 - Lessons Learned from Scaling Infrastructure as Code</td>
-						<td><a href="https://summersystemsscale2022.splashthat.com/">Online</a></td>
-					</tr> -->
+					<tr>
+						<td>08.23.2022</td>
+						<td>InfoQ Live</td>
+						<td>Simplify and Accelerate Kubernetes Adoption</td>
+						<td><a href="https://live.infoq.com/live2022/presentation/simplify-and-accelerate-kubernetes-adoption">Online</a></td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
