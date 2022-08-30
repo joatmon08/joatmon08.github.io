@@ -36,6 +36,8 @@ nav-menu: true
                     <h3>Articles</h3>
                     <p>Below are additional articles published outside of my personal blog.</p>
                     <ul class="unordered">
+                        <li><a href="https://www.hashicorp.com/blog/refresh-secrets-for-kubernetes-applications-with-vault-agent" target="_blank"><span
+                                    class="label">Refresh Secrets for Kubernetes Applications with Vault Agent</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/improve-observability-with-opentelemetry-and-consul-service-mesh" target="_blank"><span
                                     class="label">Improve Observability with OpenTelemetry and Consul Service Mesh</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/manage-kubernetes-secrets-for-flux-with-hashicorp-vault" target="_blank"><span

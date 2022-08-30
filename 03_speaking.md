@@ -26,12 +26,12 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
+					<!-- <tr>
 						<td>08.23.2022</td>
 						<td>InfoQ Live</td>
 						<td>Simplify and Accelerate Kubernetes Adoption</td>
 						<td><a href="https://live.infoq.com/live2022/presentation/simplify-and-accelerate-kubernetes-adoption">Online</a></td>
-					</tr>
+					</tr> -->
 				</tbody>
 			</table>
 		</div>
@@ -54,6 +54,14 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>08.23.2022</td>
+						<td>InfoQ Live</td>
+						<td>Simplify and Accelerate Kubernetes Adoption</td>
+						<td>
+							<a href="https://live.infoq.com/live2022/presentation/simplify-and-accelerate-kubernetes-adoption" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>06.29.2022</td>
 						<td>Summer Systems @Scale 2022</td>
