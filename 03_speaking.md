@@ -26,12 +26,12 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<!-- <tr>
-						<td>08.23.2022</td>
-						<td>InfoQ Live</td>
-						<td>Simplify and Accelerate Kubernetes Adoption</td>
-						<td><a href="https://live.infoq.com/live2022/presentation/simplify-and-accelerate-kubernetes-adoption">Online</a></td>
-					</tr> -->
+					<tr>
+						<td>10.19.2022</td>
+						<td>Datadog DASH</td>
+						<td>Auditing Your Automation's Access... Using More Automation</td>
+						<td><a href="https://www.dashcon.io/talks/auditing-your-automations-access-using-more-automation/">Room 402, Javits Center</a></td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
@@ -54,6 +54,15 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>09.29.2022</td>
+						<td>Bret Fisher's Docker & DevOps Live Show</td>
+						<td>Vault on Kubernetes</td>
+						<td>
+							<a href="https://github.com/hashicorp-dev-advocates/workshop-vault-for-developers" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://www.youtube.com/watch?v=HN0Qugly3bQ" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>08.23.2022</td>
 						<td>InfoQ Live</td>
