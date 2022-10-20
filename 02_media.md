@@ -83,6 +83,7 @@ nav-menu: true
                 <div class="inner">
                     <h3>Podcasts</h3>
                     <ul class="unordered">
+                        <li><a href="https://spring.io/blog/2022/09/08/a-bootiful-podcast-hashicorp-s-rosemary-wang-on-securing-the-intersection-of-apps-and-ops-with-hashicorp-vault" target="_blank"><span class="label">A Bootiful Podcast: Hashicorp's Rosemary Wang on securing the intersection of apps and ops with Hashicorp Vault</span></a></li>
                         <li><a href="https://changelog.com/shipit/58" target="_blank"><span class="label">Ship It! – Episode #58: How to keep a secret</span></a></li>
                         <li><a href="https://developer.confluent.io/podcast/automating-infrastructure-as-code-with-apache-kafka-and-confluent-ft-rosemary-wang" target="_blank"><span class="label">Automating Infrastructure as Code with Apache Kafka and Confluent ft. Rosemary Wang</span></a></li>
                         <li><a href="https://devchat.tv/adventures-in-devops/essential-infrastructure-as-code-devops-079/" target="_blank"><span class="label">Adventures in DevOps: Essential Infrastructure as Code – DevOps 079</span></a></li>
