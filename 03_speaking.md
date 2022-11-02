@@ -55,6 +55,14 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>11.02.2022</td>
+						<td>NYC HashiCorp User Group</td>
+						<td>Patterns to Refactor Terraform</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/patterns-to-refactor-terraform" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Demo</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>10.19.2022</td>
 						<td>Datadog Dash</td>
 						<td>Auditing Your Automation's Access...Using More Automation</td>
