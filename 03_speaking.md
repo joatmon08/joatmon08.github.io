@@ -26,12 +26,18 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<!-- <tr>
-						<td>10.19.2022</td>
-						<td>Datadog DASH</td>
-						<td>Auditing Your Automation's Access... Using More Automation</td>
-						<td><a href="https://www.dashcon.io/talks/auditing-your-automations-access-using-more-automation/">Room 402, Javits Center</a></td>
-					</tr> -->
+					<tr>
+						<td>03.28.2023 / 02:55 BST</td>
+						<td>QCon London</td>
+						<td>From Cloud-Hosted to Cloud-Native</td>
+						<td><a href="https://qconlondon.com/presentation/mar2023/cloud-hosted-cloud-native">The QEII Centre, London</a></td>
+					</tr>
+					<tr>
+						<td>05.23.2023 / 15:00 CST</td>
+						<td>GOTO Chicago</td>
+						<td>Catching Commits to Secure Infrastructure as Code</td>
+						<td><a href="https://gotochgo.com/2023/sessions/2585/catching-commits-to-secure-infrastructure-as-code">Convene, Chicago</a></td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
