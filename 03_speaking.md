@@ -27,12 +27,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>03.28.2023 / 02:55 BST</td>
-						<td>QCon London</td>
-						<td>From Cloud-Hosted to Cloud-Native</td>
-						<td><a href="https://qconlondon.com/presentation/mar2023/cloud-hosted-cloud-native">The QEII Centre, London</a></td>
-					</tr>
-					<tr>
 						<td>05.23.2023 / 15:00 CST</td>
 						<td>GOTO Chicago</td>
 						<td>Catching Commits to Secure Infrastructure as Code</td>
@@ -61,11 +55,20 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>03.28.2023</td>
+						<td>QCon London</td>
+						<td>From Cloud-Hosted to Cloud-Native</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/20230328-qconlondon-cloudnativearchitecture" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<!-- <a href="https://www.facebook.com/watch/?v=601523354638953" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+						</td>
+					</tr>
+					<tr>
 						<td>11.02.2022</td>
 						<td>NYC HashiCorp User Group</td>
 						<td>Patterns to Refactor Terraform</td>
 						<td>
-							<a href="https://speakerdeck.com/joatmon08/patterns-to-refactor-terraform" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://speakerdeck.com/joatmon08/patterns-to-refactor-terraform" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 						</td>
 					</tr>
 					<tr>
@@ -73,7 +76,7 @@ nav-menu: true
 						<td>Datadog Dash</td>
 						<td>Auditing Your Automation's Access...Using More Automation</td>
 						<td>
-							<a href="https://speakerdeck.com/joatmon08/auditing-your-automations-access-dot-dot-dot-using-more-automation" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://speakerdeck.com/joatmon08/auditing-your-automations-access-dot-dot-dot-using-more-automation" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 							<a href="https://github.com/joatmon08/hashicorp-stack-demoapp" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
 							<!-- <a href="https://www.youtube.com/watch?v=HN0Qugly3bQ" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
 						</td>
