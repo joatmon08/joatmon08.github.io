@@ -36,6 +36,8 @@ nav-menu: true
                     <h3>Articles</h3>
                     <p>Below are additional articles published outside of my personal blog.</p>
                     <ul class="unordered">
+                        <li><a href="https://www.hashicorp.com/blog/using-consul-s-transparent-proxy-on-virtual-machines" target="_blank"><span
+                                    class="label">Using Consul’s transparent proxy on virtual machines</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/refresh-secrets-for-kubernetes-applications-with-vault-agent" target="_blank"><span
                                     class="label">Refresh Secrets for Kubernetes Applications with Vault Agent</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/improve-observability-with-opentelemetry-and-consul-service-mesh" target="_blank"><span
@@ -83,6 +85,9 @@ nav-menu: true
                 <div class="inner">
                     <h3>Podcasts</h3>
                     <ul class="unordered">
+                        <li><a href="https://www.infoq.com/podcasts/cloud-hosted-cloud-native" target="_blank"><span class="label">InfoQ Podcast: From Cloud-Hosted to Cloud-Native with Rosemary Wang</span></a></li>
+                        <li><a href="https://www.skyflow.com/podcast/introduction-to-zero-trust-infrastructure-with-hashicorps-rosemary-wang" target="_blank"><span class="label">Partially Redacted: Introduction to Zero Trust Infrastructure with Hashicorp’s Rosemary Wang</span></a></li>
+                        <li><a href="https://packetpushers.net/podcast/day-two-cloud-181-implementing-patterns-and-practices-for-infrastructure-as-code/" target="_blank"><span class="label">Day Two Cloud 181: Implementing Patterns And Practices For Infrastructure as Code</span></a></li>
                         <li><a href="https://spring.io/blog/2022/09/08/a-bootiful-podcast-hashicorp-s-rosemary-wang-on-securing-the-intersection-of-apps-and-ops-with-hashicorp-vault" target="_blank"><span class="label">A Bootiful Podcast: Hashicorp's Rosemary Wang on securing the intersection of apps and ops with Hashicorp Vault</span></a></li>
                         <li><a href="https://changelog.com/shipit/58" target="_blank"><span class="label">Ship It! – Episode #58: How to keep a secret</span></a></li>
                         <li><a href="https://developer.confluent.io/podcast/automating-infrastructure-as-code-with-apache-kafka-and-confluent-ft-rosemary-wang" target="_blank"><span class="label">Automating Infrastructure as Code with Apache Kafka and Confluent ft. Rosemary Wang</span></a></li>

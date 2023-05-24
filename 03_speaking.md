@@ -27,10 +27,16 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>05.23.2023 / 15:00 CST</td>
-						<td>GOTO Chicago</td>
-						<td>Catching Commits to Secure Infrastructure as Code</td>
-						<td><a href="https://gotochgo.com/2023/sessions/2585/catching-commits-to-secure-infrastructure-as-code">Convene, Chicago</a></td>
+						<td>06.06.2023 / 10:45 EST</td>
+						<td>DevOpsDays NYC</td>
+						<td>Refactoring Applications for Dynamic Secrets</td>
+						<td><a href="https://devopsdays.org/events/2023-new-york-city/program/rosemary-wang">John Jay College, New York</a></td>
+					</tr>
+					<tr>
+						<td>06.13.2023</td>
+						<td>HashiDays: London</td>
+						<td>Come say hello!</td>
+						<td>London</td>
 					</tr>
 				</tbody>
 			</table>
@@ -54,6 +60,23 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>05.23.2023</td>
+						<td>GOTO Chicago</td>
+						<td>Catching Commits to Secure Infrastructure as Code</td>
+						<td>
+							<a href="https://gotochgo.com/2023/sessions/2585/slides" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<!-- <a href="https://www.facebook.com/watch/?v=601523354638953" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+						</td>
+					</tr>
+					<tr>
+						<td>04.13.2023</td>
+						<td>Tech Field Day</td>
+						<td>Networking Field Day 31</td>
+						<td>
+							<a href="https://techfieldday.com/appearance/hashicorp-presents-at-networking-field-day-31/" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>03.28.2023</td>
 						<td>QCon London</td>
