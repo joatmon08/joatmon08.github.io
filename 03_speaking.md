@@ -26,12 +26,12 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
+					<!-- <tr>
 						<td>06.06.2023 / 10:45 EST</td>
 						<td>DevOpsDays NYC</td>
 						<td>Refactoring Applications for Dynamic Secrets</td>
 						<td><a href="https://devopsdays.org/events/2023-new-york-city/program/rosemary-wang">John Jay College, New York</a></td>
-					</tr>
+					</tr> -->
 					<tr>
 						<td>06.13.2023</td>
 						<td>HashiDays: London</td>
@@ -61,11 +61,22 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>06.06.2023</td>
+						<td>DevOpsDays NYC</td>
+						<td>Refactoring Applications for Dynamic Secrets</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/refactoring-applications-for-dynamic-secrets" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/hashicorp-dev-advocates/workshop-vault-for-developers" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<!-- <a href="https://www.facebook.com/watch/?v=601523354638953" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+						</td>
+					</tr>
+					<tr>
 						<td>05.23.2023</td>
 						<td>GOTO Chicago</td>
 						<td>Catching Commits to Secure Infrastructure as Code</td>
 						<td>
 							<a href="https://gotochgo.com/2023/sessions/2585/slides" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/joatmon08/hashicorp-stack-demoapp" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
 							<!-- <a href="https://www.facebook.com/watch/?v=601523354638953" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
 						</td>
 					</tr>
