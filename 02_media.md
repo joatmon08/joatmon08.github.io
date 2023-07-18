@@ -90,6 +90,8 @@ nav-menu: true
                     <ul class="unordered">
                         <li><a href="https://thenewstack.io/hashicorp-vault-operator-manages-kubernetes-secrets/" target="_blank"><span
                                     class="label">HashiCorp Vault Operator Manages Kubernetes Secrets</span></a></li>
+                        <li><a href="https://gotopia.tech/articles/230/getting-better-at-security-code-quality-and-leveraging-infrastructure-as-code-with-rosemary-wang" target="_blank"><span
+                                    class="label">Getting Better at Security, Code Quality and Leveraging Infrastructure as Code with Rosemary Wang</span></a></li>
                     </ul>
                 </div>
             </div>
