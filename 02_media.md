@@ -17,7 +17,7 @@ nav-menu: true
                 <div class="inner">
                     <h3>Books</h3>
                     <h4>Infrastructure as Code, Patterns & Practices</h4>
-                    <a href="http://mng.bz/WxW1" target="_blank">
+                    <a href="https://tinyurl.com/rosemary-iac" target="_blank">
                     <img src="assets/images/book.jpg" alt="Infrastructure as Code, Patterns & Practices">
                     </a>
                 </div>
@@ -36,6 +36,8 @@ nav-menu: true
                     <h3>Articles</h3>
                     <p>Below are additional articles published outside of my personal blog.</p>
                     <ul class="unordered">
+                        <li><a href="https://www.hashicorp.com/blog/deploy-consul-cluster-peering-locally-with-minikube" target="_blank"><span
+                                    class="label">Deploy Consul cluster peering locally with Minikube</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/using-consul-s-transparent-proxy-on-virtual-machines" target="_blank"><span
                                     class="label">Using Consul’s transparent proxy on virtual machines</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/refresh-secrets-for-kubernetes-applications-with-vault-agent" target="_blank"><span
@@ -83,8 +85,19 @@ nav-menu: true
             </div>
             <div class="row">
                 <div class="inner">
+                    <h3>Interviews</h3>
+                    <p>Below are interviews.</p>
+                    <ul class="unordered">
+                        <li><a href="https://thenewstack.io/hashicorp-vault-operator-manages-kubernetes-secrets/" target="_blank"><span
+                                    class="label">HashiCorp Vault Operator Manages Kubernetes Secrets</span></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="inner">
                     <h3>Podcasts</h3>
                     <ul class="unordered">
+                        <li><a href="https://podcast.impostersyndrome.network/2016832/12897434-rosemary-wang" target="_blank"><span class="label">The Imposter Syndrome Network Podcast: Rosemary Wang</span></a></li>
                         <li><a href="https://www.infoq.com/podcasts/cloud-hosted-cloud-native" target="_blank"><span class="label">InfoQ Podcast: From Cloud-Hosted to Cloud-Native with Rosemary Wang</span></a></li>
                         <li><a href="https://www.skyflow.com/podcast/introduction-to-zero-trust-infrastructure-with-hashicorps-rosemary-wang" target="_blank"><span class="label">Partially Redacted: Introduction to Zero Trust Infrastructure with Hashicorp’s Rosemary Wang</span></a></li>
                         <li><a href="https://packetpushers.net/podcast/day-two-cloud-181-implementing-patterns-and-practices-for-infrastructure-as-code/" target="_blank"><span class="label">Day Two Cloud 181: Implementing Patterns And Practices For Infrastructure as Code</span></a></li>
