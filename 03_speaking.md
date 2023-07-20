@@ -66,7 +66,7 @@ nav-menu: true
 						<td>Can you test your infrastructure as code?</td>
 						<td>
 							<a href="https://github.com/joatmon08/hashicorp-stack-demoapp" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
-							<!-- <a href="https://www.facebook.com/watch/?v=601523354638953" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+							<a href="https://www.youtube.com/watch?v=jYZKIXGmU_0" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
@@ -76,7 +76,7 @@ nav-menu: true
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/refactoring-applications-for-dynamic-secrets" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 							<a href="https://github.com/hashicorp-dev-advocates/workshop-vault-for-developers" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
-							<!-- <a href="https://www.facebook.com/watch/?v=601523354638953" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+							<a href="https://www.youtube.com/watch?v=UsZzfu7SGTY" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
