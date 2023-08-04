@@ -33,10 +33,10 @@ nav-menu: true
 						<td><a href="https://devopsdays.org/events/2023-new-york-city/program/rosemary-wang">John Jay College, New York</a></td>
 					</tr> -->
 					<tr>
-						<td>10.15.2023-10.17.2023</td>
-						<td>All Things Open</td>
-						<td>To be announced</td>
-						<td>Raleigh, NC</td>
+						<td>10.11.2023-10.12.2023</td>
+						<td>HashiConf</td>
+						<td>Building a developer platform? Ask these questions.</td>
+						<td><a href="https://hashiconf.com/2023/sessions/featured/building-a-developer-platform-ask-these-questions">San Francisco, CA</a></td>
 					</tr>
 				</tbody>
 			</table>
