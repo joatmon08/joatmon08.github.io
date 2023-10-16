@@ -33,10 +33,16 @@ nav-menu: true
 						<td><a href="https://devopsdays.org/events/2023-new-york-city/program/rosemary-wang">John Jay College, New York</a></td>
 					</tr> -->
 					<tr>
-						<td>10.11.2023-10.12.2023</td>
-						<td>HashiConf</td>
-						<td>Building a developer platform? Ask these questions.</td>
-						<td><a href="https://hashiconf.com/2023/sessions/featured/building-a-developer-platform-ask-these-questions">San Francisco, CA</a></td>
+						<td>11.06.2023 / 17:40 CT</td>
+						<td>KubeCon North America</td>
+						<td>Choose Your Own Abstraction: Iterating on Developer Experience</td>
+						<td><a href="https://sched.co/1R2lh">Chicago, IL</a></td>
+					</tr>
+					<tr>
+						<td>11.28.2023 / 11:00 PT</td>
+						<td>AWS Re:invent</td>
+						<td>DOP316-S: Building a Multi-Account, Multi-Runtime Service Oriented Architecture</td>
+						<td><a href="">Las Vegas, NV</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -60,6 +66,26 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>10.16.2023</td>
+						<td>All Things Open</td>
+						<td>Break Glass, Repair Fast, Reconcile Automation</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/2023-ato-breakglass" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/joatmon08/hashicorp-stack-demoapp" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<!-- <a href="https://www.youtube.com/watch?v=jYZKIXGmU_0" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+						</td>
+					</tr>
+					<tr>
+						<td>10.12.2023</td>
+						<td>HashiConf</td>
+						<td>Building a developer platform? Ask these questions.</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/building-a-developer-platform-ask-these-questions-7f9217e5-61cc-4902-8323-a48f95515e6b" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/joatmon08/hashicorp-stack-demoapp" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<!-- <a href="https://www.youtube.com/watch?v=jYZKIXGmU_0" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+						</td>
+					</tr>
 					<tr>
 						<td>07.12.2023</td>
 						<td>vBrownBag</td>
