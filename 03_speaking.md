@@ -83,7 +83,7 @@ nav-menu: true
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/building-a-developer-platform-ask-these-questions-7f9217e5-61cc-4902-8323-a48f95515e6b" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 							<a href="https://github.com/joatmon08/hashicorp-stack-demoapp" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
-							<!-- <a href="https://www.youtube.com/watch?v=jYZKIXGmU_0" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+							<a href="https://youtu.be/1Fl25dR01pw?si=q7NnhU53nLz1T4dd" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
