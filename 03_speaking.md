@@ -33,16 +33,10 @@ nav-menu: true
 						<td><a href="https://devopsdays.org/events/2023-new-york-city/program/rosemary-wang">John Jay College, New York</a></td>
 					</tr> -->
 					<tr>
-						<td>11.06.2023 / 17:40 CT</td>
-						<td>KubeCon North America</td>
-						<td>Choose Your Own Abstraction: Iterating on Developer Experience</td>
-						<td><a href="https://sched.co/1R2lh">Chicago, IL</a></td>
-					</tr>
-					<tr>
-						<td>11.28.2023 / 11:00 PT</td>
-						<td>AWS Re:invent</td>
-						<td>DOP316-S: Building a Multi-Account, Multi-Runtime Service Oriented Architecture</td>
-						<td><a href="">Las Vegas, NV</a></td>
+						<td>05.30.2024 - 05.31.2024</td>
+						<td>CraftConf</td>
+						<td>TBD</td>
+						<td><a href="https://craft-conf.com/2024">Budapest, Hungary</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -66,6 +60,24 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>11.28.2023</td>
+						<td>AWS Re:invent</td>
+						<td>Building a Multi-Account, Multi-Runtime Service Oriented Architecture</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/building-a-multi-account-multi-runtime-service-oriented-architecture" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/jcolemorrison/foundational-soa" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://www.youtube.com/watch?v=nSFHlcWj8TY" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
+						<td>11.06.2023</td>
+						<td>KubeCon North America</td>
+						<td>Choose Your Own Abstraction: Iterating on Developer Experience</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/choose-your-own-abstraction-iterating-on-developer-experience" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>10.27.2023</td>
 						<td>Mongodb.TV</td>
@@ -139,7 +151,7 @@ nav-menu: true
 						<td>From Cloud-Hosted to Cloud-Native</td>
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/20230328-qconlondon-cloudnativearchitecture" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
-							<!-- <a href="https://www.facebook.com/watch/?v=601523354638953" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+							<a href="https://www.infoq.com/presentations/cloud-hosted-native/" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
