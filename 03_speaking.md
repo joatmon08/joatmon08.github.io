@@ -67,6 +67,16 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>10.27.2023</td>
+						<td>Mongodb.TV</td>
+						<td>Automated Access Control for Administrators, Security, & Developers</td>
+						<td>
+							<!-- <a href="https://speakerdeck.com/joatmon08/2023-ato-breakglass" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a> -->
+							<a href="https://github.com/joatmon08/terraform-aws-mongodb" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://www.youtube.com/watch?v=CZeOBmOw_8M" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>10.16.2023</td>
 						<td>All Things Open</td>
 						<td>Break Glass, Repair Fast, Reconcile Automation</td>
