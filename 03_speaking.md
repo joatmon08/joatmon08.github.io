@@ -95,7 +95,7 @@ nav-menu: true
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/2023-ato-breakglass" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 							<a href="https://github.com/joatmon08/hashicorp-stack-demoapp" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
-							<!-- <a href="https://www.youtube.com/watch?v=jYZKIXGmU_0" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+							<a href="https://youtu.be/YqLP1Gi962o?si=ckk3VBj9-RCnsj7L" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
