@@ -33,6 +33,12 @@ nav-menu: true
 						<td><a href="https://devopsdays.org/events/2023-new-york-city/program/rosemary-wang">John Jay College, New York</a></td>
 					</tr> -->
 					<tr>
+						<td>01.31.2024</td>
+						<td>Infrastructure & Ops Superstream: Platform Automation and Infrastructure as Code</td>
+						<td>Can You Test Your Infrastructure as Code?</td>
+						<td><a href="https://www.oreilly.com/live-events/infrastructure-ops-superstream-platform-automation-and-infrastructure-as-code/0790145047216/0790145047208/">Online</a></td>
+					</tr>
+					<tr>
 						<td>05.30.2024 - 05.31.2024</td>
 						<td>CraftConf</td>
 						<td>TBD</td>
