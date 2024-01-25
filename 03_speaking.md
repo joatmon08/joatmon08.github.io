@@ -38,12 +38,6 @@ nav-menu: true
 						<td>Can You Test Your Infrastructure as Code?</td>
 						<td><a href="https://www.oreilly.com/live-events/infrastructure-ops-superstream-platform-automation-and-infrastructure-as-code/0790145047216/0790145047208/">Online</a></td>
 					</tr>
-					<tr>
-						<td>05.30.2024 - 05.31.2024</td>
-						<td>CraftConf</td>
-						<td>TBD</td>
-						<td><a href="https://craft-conf.com/2024">Budapest, Hungary</a></td>
-					</tr>
 				</tbody>
 			</table>
 		</div>
