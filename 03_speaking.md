@@ -61,6 +61,16 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>01.25.2024</td>
+						<td>New Jersey HashiCorp User Group</td>
+						<td>Multi-Account, Multi-Region, Multi-Runtime</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/multi-account-multi-region-multi-runtime" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/jcolemorrison/foundational-soa" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<!-- <a href="https://www.youtube.com/watch?v=nSFHlcWj8TY" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+						</td>
+					</tr>
+					<tr>
 						<td>11.28.2023</td>
 						<td>AWS Re:invent</td>
 						<td>Building a Multi-Account, Multi-Runtime Service Oriented Architecture</td>
