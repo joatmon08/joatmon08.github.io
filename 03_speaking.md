@@ -33,10 +33,10 @@ nav-menu: true
 						<td><a href="https://devopsdays.org/events/2023-new-york-city/program/rosemary-wang">John Jay College, New York</a></td>
 					</tr> -->
 					<tr>
-						<td>01.31.2024</td>
-						<td>Infrastructure & Ops Superstream: Platform Automation and Infrastructure as Code</td>
-						<td>Can You Test Your Infrastructure as Code?</td>
-						<td><a href="https://www.oreilly.com/live-events/infrastructure-ops-superstream-platform-automation-and-infrastructure-as-code/0790145047216/0790145047208/">Online</a></td>
+						<td>04.09.2024-04.11.2024</td>
+						<td>Google Cloud Next</td>
+						<td>Multi-region, multi-runtime, multi-project infrastructure as code</td>
+						<td><a href="">Las Vegas, NV</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -61,13 +61,21 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>01.31.2024</td>
+						<td>Infrastructure & Ops Superstream: Platform Automation and Infrastructure as Code</td>
+						<td>Can You Test Your Infrastructure as Code?</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/can-you-test-your-infrastructure-as-code" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://www.oreilly.com/live-events/infrastructure-ops-superstream-platform-automation-and-infrastructure-as-code/0790145047216/0790145047208/" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>01.25.2024</td>
 						<td>New Jersey HashiCorp User Group</td>
 						<td>Multi-Account, Multi-Region, Multi-Runtime</td>
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/multi-account-multi-region-multi-runtime" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 							<a href="https://github.com/jcolemorrison/foundational-soa" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
-							<!-- <a href="https://www.youtube.com/watch?v=nSFHlcWj8TY" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
 						</td>
 					</tr>
 					<tr>
@@ -93,7 +101,6 @@ nav-menu: true
 						<td>Mongodb.TV</td>
 						<td>Automated Access Control for Administrators, Security, & Developers</td>
 						<td>
-							<!-- <a href="https://speakerdeck.com/joatmon08/2023-ato-breakglass" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a> -->
 							<a href="https://github.com/joatmon08/terraform-aws-mongodb" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
 							<a href="https://www.youtube.com/watch?v=CZeOBmOw_8M" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
@@ -495,7 +502,7 @@ nav-menu: true
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/the-great-cloud-migration-with-network-automation-and-service-mesh" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 							<a href="https://github.com/joatmon08/cloud-migration" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
-							<a href="https://ftp.osuosl.org/pub/fosdem/2021/D.infra/greatcloudmigrationnetworkmeshauto.webm" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+							<a href="https://ftp.heanet.ie/mirrors/fosdem-video/2021/D.infra/greatcloudmigrationnetworkmeshauto.mp4" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
