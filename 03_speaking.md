@@ -26,17 +26,17 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<!-- <tr>
-						<td>06.06.2023 / 10:45 EST</td>
-						<td>DevOpsDays NYC</td>
-						<td>Refactoring Applications for Dynamic Secrets</td>
-						<td><a href="https://devopsdays.org/events/2023-new-york-city/program/rosemary-wang">John Jay College, New York</a></td>
-					</tr> -->
 					<tr>
-						<td>04.09.2024-04.11.2024</td>
-						<td>Google Cloud Next</td>
-						<td>Multi-region, multi-runtime, multi-project infrastructure as code</td>
-						<td><a href="">Las Vegas, NV</a></td>
+						<td>06.04.2024</td>
+						<td>HashiDays London</td>
+						<td>N/A</td>
+						<td><a href="">London</a></td>
+					</tr>
+					<tr>
+						<td>06.06.2024</td>
+						<td>HashiDays Munich</td>
+						<td>N/A</td>
+						<td><a href="">Munich</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -60,6 +60,14 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>04.10.2024</td>
+						<td>Google Cloud Next</td>
+						<td>Multi-project, multi-runtime, multi-region infrastructure as code</td>
+						<td>
+							<a href="https://youtu.be/lN1YEEZ_6qE" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>01.31.2024</td>
 						<td>Infrastructure & Ops Superstream: Platform Automation and Infrastructure as Code</td>
