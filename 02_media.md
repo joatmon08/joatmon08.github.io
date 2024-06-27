@@ -36,6 +36,14 @@ nav-menu: true
                     <h3>Articles</h3>
                     <p>Below are additional articles published outside of my personal blog.</p>
                     <ul class="unordered">
+                        <li><a href="https://www.hashicorp.com/blog/kubernetes-secrets-management-with-hcp-vault-secrets" target="_blank"><span
+                                    class="label">Kubernetes secrets management with HCP Vault Secrets</span></a></li>
+                        <li><a href="https://www.hashicorp.com/blog/use-vault-to-manage-api-tokens-for-the-terraform-cloud-operator" target="_blank"><span
+                                    class="label">Use Vault to manage API tokens for the Terraform Cloud Operator</span></a></li>
+                        <li><a href="https://www.hashicorp.com/blog/how-i-use-boundary-to-build-automation-for-live-streams" target="_blank"><span
+                                    class="label">How I use Boundary to build automation for live streams</span></a></li>
+                        <li><a href="https://www.hashicorp.com/blog/installing-hashicorp-tools-in-alpine-linux-containers" target="_blank"><span
+                                    class="label">Installing HashiCorp tools in Alpine Linux containers</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/deploy-consul-cluster-peering-locally-with-minikube" target="_blank"><span
                                     class="label">Deploy Consul cluster peering locally with Minikube</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/using-consul-s-transparent-proxy-on-virtual-machines" target="_blank"><span
@@ -121,6 +129,7 @@ nav-menu: true
                         <li><a href="https://soundcloud.com/hashicast" target="_blank"><span class="label">HashiCast</span></a></li>
                         <li><a href="https://www.twitch.tv/hashicorplive" target="_blank"><span class="label">HashiCorp Live</span></a></li>
                         <li><a href="https://www.youtube.com/playlist?list=PL81sUbsFNc5b8i2g2sB_tG-PuZxEdlDpK" target="_blank"><span class="label">Getting into HashiCorp Consul</span></a></li>
+                        <li><a href="https://www.youtube.com/playlist?list=PL81sUbsFNc5YPS-jcIUyJQoJJtg1IIvzc" target="_blank"><span class="label">Getting into HashiCorp Vault</span></a></li>
                     </ul>
                 </div>
             </div>

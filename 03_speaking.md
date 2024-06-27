@@ -26,18 +26,12 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
+					<!-- <tr>
 						<td>06.04.2024</td>
 						<td>HashiDays London</td>
 						<td>N/A</td>
 						<td><a href="">London</a></td>
-					</tr>
-					<tr>
-						<td>06.06.2024</td>
-						<td>HashiDays Munich</td>
-						<td>N/A</td>
-						<td><a href="">Munich</a></td>
-					</tr>
+					</tr> -->
 				</tbody>
 			</table>
 		</div>
