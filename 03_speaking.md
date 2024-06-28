@@ -55,6 +55,16 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>06.06.2024</td>
+						<td>HashiDays: Munich</td>
+						<td>Secure Day 2 operations with Boundary & Vault</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/secure-day-2-operations-with-boundary-and-vault" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/joatmon08/hashicorp-stack-demoapp" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://www.youtube.com/watch?v=4Y6zwHH2_hQ" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>04.10.2024</td>
 						<td>Google Cloud Next</td>
 						<td>Multi-project, multi-runtime, multi-region infrastructure as code</td>
