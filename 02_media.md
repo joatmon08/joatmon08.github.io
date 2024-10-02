@@ -36,6 +36,10 @@ nav-menu: true
                     <h3>Articles</h3>
                     <p>Below are additional articles published outside of my personal blog.</p>
                     <ul class="unordered">
+                        <li><a href="https://www.hashicorp.com/blog/reload-ssl-certificates-from-hashicorp-vault-for-spring-boots" target="_blank"><span
+                                    class="label">Reload SSL certificates from HashiCorp Vault for Spring Boot</span></a></li>
+                        <li><a href="https://www.hashicorp.com/blog/5-steps-to-set-up-vault-for-widespread-adoption-at-your-orgs" target="_blank"><span
+                                    class="label">5 steps to set up Vault for widespread adoption at your org</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/kubernetes-secrets-management-with-hcp-vault-secrets" target="_blank"><span
                                     class="label">Kubernetes secrets management with HCP Vault Secrets</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/use-vault-to-manage-api-tokens-for-the-terraform-cloud-operator" target="_blank"><span
@@ -130,6 +134,7 @@ nav-menu: true
                         <li><a href="https://www.twitch.tv/hashicorplive" target="_blank"><span class="label">HashiCorp Live</span></a></li>
                         <li><a href="https://www.youtube.com/playlist?list=PL81sUbsFNc5b8i2g2sB_tG-PuZxEdlDpK" target="_blank"><span class="label">Getting into HashiCorp Consul</span></a></li>
                         <li><a href="https://www.youtube.com/playlist?list=PL81sUbsFNc5YPS-jcIUyJQoJJtg1IIvzc" target="_blank"><span class="label">Getting into HashiCorp Vault</span></a></li>
+                        <li><a href="https://www.youtube.com/playlist?list=PL81sUbsFNc5ZBUgz1Ai7-tfB7qpmqFvEO" target="_blank"><span class="label">Getting into HashiCorp Boundary</span></a></li>
                     </ul>
                 </div>
             </div>
