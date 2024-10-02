@@ -26,12 +26,24 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<!-- <tr>
-						<td>06.04.2024</td>
-						<td>HashiDays London</td>
-						<td>N/A</td>
-						<td><a href="">London</a></td>
-					</tr> -->
+					<tr>
+						<td>10.16.2024</td>
+						<td>HashiConf</td>
+						<td>People, process, and technology for ILM and SLM adoption</td>
+						<td><a href="https://www.hashicorp.com/conferences/hashiconf/agenda/10-16/people-process-and-technology-for-ilm-and-slm-adoption">Boston, Cloud Engineering Track, Ensemble Ballroom</a></td>
+					</tr>
+					<tr>
+						<td>10.16.2024</td>
+						<td>HashiConf</td>
+						<td>Q&A session with Armon</td>
+						<td><a href="https://www.hashicorp.com/conferences/hashiconf/agenda/10-16/q-a-session-with-armon-dadgar">Boston, Business Track, Contemporary, Level 3</a></td>
+					</tr>
+					<tr>
+						<td>12.03.2024</td>
+						<td>AWS Re:invent</td>
+						<td>Build for massive scale and security with the HashiCorp Cloud Platform (DOP101-S)</td>
+						<td><a href="https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=HashiCorp">Venetian, Summit Showroom </a></td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
