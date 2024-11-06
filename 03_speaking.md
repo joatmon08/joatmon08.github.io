@@ -27,18 +27,6 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>10.16.2024</td>
-						<td>HashiConf</td>
-						<td>People, process, and technology for ILM and SLM adoption</td>
-						<td><a href="https://www.hashicorp.com/conferences/hashiconf/agenda/10-16/people-process-and-technology-for-ilm-and-slm-adoption">Boston, Cloud Engineering Track, Ensemble Ballroom</a></td>
-					</tr>
-					<tr>
-						<td>10.16.2024</td>
-						<td>HashiConf</td>
-						<td>Q&A session with Armon</td>
-						<td><a href="https://www.hashicorp.com/conferences/hashiconf/agenda/10-16/q-a-session-with-armon-dadgar">Boston, Business Track, Contemporary, Level 3</a></td>
-					</tr>
-					<tr>
 						<td>12.03.2024</td>
 						<td>AWS Re:invent</td>
 						<td>Build for massive scale and security with the HashiCorp Cloud Platform (DOP101-S)</td>
@@ -66,6 +54,22 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>10.16.2024</td>
+						<td>HashiConf</td>
+						<td>People, process, and technology for ILM and SLM adoption</td>
+						<td>
+							<a href="https://youtu.be/vugPg7Ux7UY?si=R8c2ZlLovvdd4ovE" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
+						<td>10.16.2024</td>
+						<td>HashiConf</td>
+						<td>Q&A with Armon Dadger</td>
+						<td>
+							<a href="https://youtu.be/BtvPd7p3vS8?si=bdgkOwTibn1lAub_" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>06.06.2024</td>
 						<td>HashiDays: Munich</td>
