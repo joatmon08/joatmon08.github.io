@@ -26,12 +26,12 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
+					<!-- <tr>
 						<td>12.03.2024</td>
 						<td>AWS Re:invent</td>
 						<td>Build for massive scale and security with the HashiCorp Cloud Platform (DOP101-S)</td>
 						<td><a href="https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=HashiCorp">Venetian, Summit Showroom </a></td>
-					</tr>
+					</tr> -->
 				</tbody>
 			</table>
 		</div>
@@ -54,6 +54,16 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>12.03.2024</td>
+						<td>AWS re:Invent</td>
+						<td>Build for massive scale and security with the HashiCorp Cloud Platform</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/build-for-massive-scale-and-security-with-the-hashicorp-cloud-platform" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/jcolemorrison/hashistack-on-aws" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<!-- <a href="https://www.youtube.com/watch?v=4Y6zwHH2_hQ" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+						</td>
+					</tr>
 					<tr>
 						<td>10.16.2024</td>
 						<td>HashiConf</td>
