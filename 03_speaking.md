@@ -69,6 +69,7 @@ nav-menu: true
 						<td>HashiConf</td>
 						<td>People, process, and technology for ILM and SLM adoption</td>
 						<td>
+							<a href="https://speakerdeck.com/joatmon08/people-process-and-technology-for-ilm-and-slm-adoption" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 							<a href="https://youtu.be/vugPg7Ux7UY?si=R8c2ZlLovvdd4ovE" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
