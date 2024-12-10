@@ -61,7 +61,7 @@ nav-menu: true
 						<td>
 							<a href="https://speakerdeck.com/joatmon08/build-for-massive-scale-and-security-with-the-hashicorp-cloud-platform" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
 							<a href="https://github.com/jcolemorrison/hashistack-on-aws" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
-							<!-- <a href="https://www.youtube.com/watch?v=4Y6zwHH2_hQ" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a> -->
+							<a href="https://youtu.be/c5LiyO20hgI?si=s2MgozGJ3TbTN9Wm" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
 					<tr>
