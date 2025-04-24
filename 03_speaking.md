@@ -65,6 +65,13 @@ nav-menu: true
 						</td>
 					</tr>
 					<tr>
+						<td>04.16.2025</td>
+						<td>Ask an OpenShift Admin</td>
+						<td>Ep 150 | HashiCorp Terraform & Vault AMA</td>
+							<a href="https://www.youtube.com/watch?v=M8QobMco_Ws" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>03.06.2025</td>
 						<td>Conf42</td>
 						<td>The Secret to Handling Dynamic Secrets</td>
