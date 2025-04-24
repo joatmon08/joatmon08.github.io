@@ -26,12 +26,12 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
+					<!-- <tr>
 						<td>04.23.2025</td>
 						<td>Microsoft Reactor</td>
 						<td>Fireside Chat for scaling Terraform in regulated Industries</td>
 						<td><a href="https://developer.microsoft.com/en-us/reactor/events/25211/">Online</a></td>
-					</tr>
+					</tr> -->
 				</tbody>
 			</table>
 		</div>
@@ -55,12 +55,20 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>04.23.2025</td>
+						<td>Microsoft Reactor</td>
+						<td>Fireside Chat for scaling Terraform in regulated Industries</td>
+						<td>
+							<!-- <a href="https://speakerdeck.com/joatmon08/build-for-massive-scale-and-security-with-the-hashicorp-cloud-platform" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+							<a href="https://github.com/jcolemorrison/hashistack-on-aws" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a> -->
+							<a href="https://www.youtube.com/watch?v=X_ffIpa_wCI" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>03.06.2025</td>
 						<td>Conf42</td>
 						<td>The Secret to Handling Dynamic Secrets</td>
 						<td>
-							<!-- <a href="https://speakerdeck.com/joatmon08/build-for-massive-scale-and-security-with-the-hashicorp-cloud-platform" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
-							<a href="https://github.com/jcolemorrison/hashistack-on-aws" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a> -->
 							<a href="https://www.conf42.com/Cloud_Native_2025_Rosemary_Wang_secrets_handling_security" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
