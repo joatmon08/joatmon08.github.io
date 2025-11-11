@@ -59,8 +59,6 @@ nav-menu: true
 						<td>Microsoft Reactor</td>
 						<td>Fireside Chat for scaling Terraform in regulated Industries</td>
 						<td>
-							<!-- <a href="https://speakerdeck.com/joatmon08/build-for-massive-scale-and-security-with-the-hashicorp-cloud-platform" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
-							<a href="https://github.com/jcolemorrison/hashistack-on-aws" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a> -->
 							<a href="https://www.youtube.com/watch?v=X_ffIpa_wCI" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
