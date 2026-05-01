@@ -29,6 +29,10 @@ nav-menu: true
                         <li><a href="https://medium.com/@joatmon08" target="_blank" class="icon alt fa-medium"><span
                                     class="label">Medium</span></a></li>
                     </ul>
+                    <ul class="icons">
+                        <li><a href="https://dev.to/joatmon08" target="_blank" class="icon alt fa-code"><span
+                                    class="label">Dev.to</span></a></li>
+                    </ul>
                 </div>
             </div>
             <div class="row">
@@ -36,6 +40,8 @@ nav-menu: true
                     <h3>Articles</h3>
                     <p>Below are additional articles published outside of my personal blog.</p>
                     <ul class="unordered">
+                        <li><a href="https://medium.com/hashicorp-engineering/ai-agent-authorization-with-a2a-protocol-and-hashicorp-vault-2e0c36fc2efc" target="_blank"><span
+                                    class="label">AI agent authorization with A2A protocol and HashiCorp Vault</span></a></li>
                         <li><a href="https://www.hashicorp.com/en/blog/protect-data-privacy-in-amazon-bedrock-with-vault" target="_blank"><span
                                     class="label">Protect data privacy in Amazon Bedrock with Vault</span></a></li>
                         <li><a href="https://www.hashicorp.com/en/blog/patterns-to-refactor-infrastructure-as-code-for-compliance" target="_blank"><span
@@ -140,6 +146,7 @@ nav-menu: true
                         <li><a href="https://www.youtube.com/playlist?list=PL81sUbsFNc5YPS-jcIUyJQoJJtg1IIvzc" target="_blank"><span class="label">Getting into HashiCorp Vault</span></a></li>
                         <li><a href="https://www.youtube.com/playlist?list=PL81sUbsFNc5ZBUgz1Ai7-tfB7qpmqFvEO" target="_blank"><span class="label">Getting into HashiCorp Boundary</span></a></li>
                         <li><a href="https://www.youtube.com/playlist?list=PL81sUbsFNc5ZWoz3gpCJgUl3H7yZO_iE7" target="_blank"><span class="label">Developer's Guide to HCP Vault</span></a></li>
+                        <li><a href="https://www.youtube.com/playlist?list=PL81sUbsFNc5Z93-eRproLp88vI_IxbDBY" target="_blank"><span class="label">Getting into HashiCorp Terraform</span></a></li>
                     </ul>
                 </div>
             </div>

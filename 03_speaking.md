@@ -55,6 +55,14 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>04.30.2026</td>
+						<td>IBM Dev Day: Bob Edition</td>
+						<td>Fireside Chat for scaling Terraform in regulated Industries</td>
+						<td>
+							<a href="https://ibmdevday-bob.bemyapp.com/" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
 						<td>04.23.2025</td>
 						<td>Microsoft Reactor</td>
 						<td>Fireside Chat for scaling Terraform in regulated Industries</td>
