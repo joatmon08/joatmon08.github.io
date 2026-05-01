@@ -17,9 +17,9 @@ nav-menu: true
                 <div class="inner">
                     <h3>Blog</h3>
                     <p>Read my latest posts on:</p>
-                    <ul class="unordered">
-                        <li><a href="https://dev.to/joatmon08" target="_blank" class="icon alt fa-code"><span class="label"> Dev.to</span></a></li>
-                        <li><a href="https://medium.com/@joatmon08" target="_blank" class="icon alt fa-medium"><span class="label"> Medium</span></a></li>
+                    <ul class="actions">
+                        <li><a href="https://dev.to/joatmon08" target="_blank" class="button special icon fa-code">Dev.to</a></li>
+                        <li><a href="https://medium.com/@joatmon08" target="_blank" class="button special icon fa-medium">Medium</a></li>
                     </ul>
                 </div>
             </div>
