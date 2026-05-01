@@ -74,6 +74,7 @@ nav-menu: true
 						<td>04.16.2025</td>
 						<td>Ask an OpenShift Admin</td>
 						<td>Ep 150 | HashiCorp Terraform & Vault AMA</td>
+						<td>
 							<a href="https://www.youtube.com/watch?v=M8QobMco_Ws" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
 						</td>
 					</tr>
