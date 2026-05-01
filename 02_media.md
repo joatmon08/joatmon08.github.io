@@ -15,24 +15,21 @@ nav-menu: true
             </header>
             <div class="row">
                 <div class="inner">
+                    <h3>Blog</h3>
+                    <p>Read my latest posts on:</p>
+                    <ul class="unordered">
+                        <li><a href="https://dev.to/joatmon08" target="_blank" class="icon alt fa-code"><span class="label"> Dev.to</span></a></li>
+                        <li><a href="https://medium.com/@joatmon08" target="_blank" class="icon alt fa-medium"><span class="label"> Medium</span></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="inner">
                     <h3>Books</h3>
                     <h4>Infrastructure as Code, Patterns & Practices</h4>
                     <a href="https://tinyurl.com/rosemary-iac" target="_blank">
                     <img src="assets/images/book.jpg" alt="Infrastructure as Code, Patterns & Practices">
                     </a>
-                </div>
-            </div>
-            <div class="row">
-                <div class="inner">
-                    <h3>Blog</h3>
-                    <ul class="icons">
-                        <li><a href="https://medium.com/@joatmon08" target="_blank" class="icon alt fa-medium"><span
-                                    class="label">Medium</span></a></li>
-                    </ul>
-                    <ul class="icons">
-                        <li><a href="https://dev.to/joatmon08" target="_blank" class="icon alt fa-code"><span
-                                    class="label">Dev.to</span></a></li>
-                    </ul>
                 </div>
             </div>
             <div class="row">
