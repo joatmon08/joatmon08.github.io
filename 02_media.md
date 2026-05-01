@@ -37,7 +37,7 @@ nav-menu: true
                     <h3>Articles</h3>
                     <p>Below are additional articles published outside of my personal blog.</p>
                     <ul class="unordered">
-                        <li><a href="https://medium.com/hashicorp-engineering/ai-agent-authorization-with-a2a-protocol-and-hashicorp-vault-2e0c36fc2efc" target="_blank"><span
+                        <li><a href="https://substack.com/home/post/p-187874131" target="_blank"><span
                                     class="label">AI agent authorization with A2A protocol and HashiCorp Vault</span></a></li>
                         <li><a href="https://www.hashicorp.com/en/blog/protect-data-privacy-in-amazon-bedrock-with-vault" target="_blank"><span
                                     class="label">Protect data privacy in Amazon Bedrock with Vault</span></a></li>
