@@ -39,6 +39,8 @@ nav-menu: true
                     <ul class="unordered">
                         <li><a href="https://substack.com/home/post/p-187874131" target="_blank"><span
                                     class="label">AI agent authorization with A2A protocol and HashiCorp Vault</span></a></li>
+                        <li><a href="https://www.hashicorp.com/en/blog/anonymize-rag-data-in-ibm-granite-and-ollama-using-hcp-vault" target="_blank"><span
+                                    class="label">Anonymize RAG data in IBM Granite and Ollama using HCP Vault</span></a></li>
                         <li><a href="https://www.hashicorp.com/en/blog/protect-data-privacy-in-amazon-bedrock-with-vault" target="_blank"><span
                                     class="label">Protect data privacy in Amazon Bedrock with Vault</span></a></li>
                         <li><a href="https://www.hashicorp.com/en/blog/patterns-to-refactor-infrastructure-as-code-for-compliance" target="_blank"><span
