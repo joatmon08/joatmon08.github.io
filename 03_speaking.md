@@ -57,7 +57,7 @@ nav-menu: true
 					<tr>
 						<td>04.30.2026</td>
 						<td>IBM Dev Day: Bob Edition</td>
-						<td>Fireside Chat for scaling Terraform in regulated Industries</td>
+						<td>From Zero to Infrastructure as Code Expert</td>
 						<td>
 							<a href="https://github.com/joatmon08/platform-infrastructure-skills" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
 							<a href="https://ibmdevday-bob.bemyapp.com/" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
