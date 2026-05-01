@@ -39,6 +39,8 @@ nav-menu: true
                     <ul class="unordered">
                         <li><a href="https://substack.com/home/post/p-187874131" target="_blank"><span
                                     class="label">AI agent authorization with A2A protocol and HashiCorp Vault</span></a></li>
+                        <li><a href="https://www.hashicorp.com/en/blog/terraform-security-5-foundational-practices" target="_blank"><span
+                                    class="label">Terraform security: 5 foundational practices</span></a></li>
                         <li><a href="https://www.hashicorp.com/en/blog/anonymize-rag-data-in-ibm-granite-and-ollama-using-hcp-vault" target="_blank"><span
                                     class="label">Anonymize RAG data in IBM Granite and Ollama using HCP Vault</span></a></li>
                         <li><a href="https://www.hashicorp.com/en/blog/protect-data-privacy-in-amazon-bedrock-with-vault" target="_blank"><span
@@ -49,6 +51,8 @@ nav-menu: true
                                     class="label">Reload SSL certificates from HashiCorp Vault for Spring Boot</span></a></li>
                         <li><a href="https://www.hashicorp.com/en/blog/5-steps-to-set-up-vault-for-widespread-adoption-at-your-org" target="_blank"><span
                                     class="label">5 steps to set up Vault for widespread adoption at your org</span></a></li>
+                        <li><a href="https://www.hashicorp.com/blog/use-vault-to-manage-api-tokens-for-the-terraform-cloud-operator" target="_blank"><span
+                                    class="label">Use Vault to manage API tokens for the Terraform Cloud Operator</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/how-i-use-boundary-to-build-automation-for-live-streams" target="_blank"><span
                                     class="label">How I use Boundary to build automation for live streams</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/installing-hashicorp-tools-in-alpine-linux-containers" target="_blank"><span
