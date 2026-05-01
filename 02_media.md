@@ -43,9 +43,9 @@ nav-menu: true
                                     class="label">Protect data privacy in Amazon Bedrock with Vault</span></a></li>
                         <li><a href="https://www.hashicorp.com/en/blog/patterns-to-refactor-infrastructure-as-code-for-compliance" target="_blank"><span
                                     class="label">Patterns to refactor infrastructure as code for compliance</span></a></li>
-                        <li><a href="https://www.hashicorp.com/blog/reload-ssl-certificates-from-hashicorp-vault-for-spring-boots" target="_blank"><span
+                        <li><a href="https://www.hashicorp.com/en/blog/reload-ssl-certificates-from-hashicorp-vault-for-spring-boot" target="_blank"><span
                                     class="label">Reload SSL certificates from HashiCorp Vault for Spring Boot</span></a></li>
-                        <li><a href="https://www.hashicorp.com/blog/5-steps-to-set-up-vault-for-widespread-adoption-at-your-orgs" target="_blank"><span
+                        <li><a href="https://www.hashicorp.com/en/blog/5-steps-to-set-up-vault-for-widespread-adoption-at-your-org" target="_blank"><span
                                     class="label">5 steps to set up Vault for widespread adoption at your org</span></a></li>
                         <li><a href="https://www.hashicorp.com/blog/kubernetes-secrets-management-with-hcp-vault-secrets" target="_blank"><span
                                     class="label">Kubernetes secrets management with HCP Vault Secrets</span></a></li>
