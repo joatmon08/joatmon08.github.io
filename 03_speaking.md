@@ -26,12 +26,12 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<!-- <tr>
-						<td>04.23.2025</td>
-						<td>Microsoft Reactor</td>
-						<td>Fireside Chat for scaling Terraform in regulated Industries</td>
-						<td><a href="https://developer.microsoft.com/en-us/reactor/events/25211/">Online</a></td>
-					</tr> -->
+					<tr>
+						<td>06.03.2026</td>
+						<td>Women Who Code Summit</td>
+						<td>From Platform Engineering to AI Automation: Building Infrastructure for Agent Systems</td>
+						<td><a href="https://events.womenwhocode.com/2026/agenda?speakers=3914404">New York, NY</a></td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
