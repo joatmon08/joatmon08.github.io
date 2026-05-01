@@ -59,7 +59,16 @@ nav-menu: true
 						<td>IBM Dev Day: Bob Edition</td>
 						<td>Fireside Chat for scaling Terraform in regulated Industries</td>
 						<td>
+							<a href="https://github.com/joatmon08/platform-infrastructure-skills" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
 							<a href="https://ibmdevday-bob.bemyapp.com/" class="icon alt fa-youtube-play" target="_blank"><span class="label">Recording</span></a>
+						</td>
+					</tr>
+					<tr>
+						<td>01.26.2026</td>
+						<td>IBM Dev Day: AI Demystified</td>
+						<td>A Platform Engineer’s Journey to AI Automation</td>
+						<td>
+							<a href="github.com/joatmon08/infrastructure-agent" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
 						</td>
 					</tr>
 					<tr>
