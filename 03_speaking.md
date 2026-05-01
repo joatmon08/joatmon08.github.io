@@ -68,7 +68,7 @@ nav-menu: true
 						<td>IBM Dev Day: AI Demystified</td>
 						<td>A Platform Engineer’s Journey to AI Automation</td>
 						<td>
-							<a href="github.com/joatmon08/infrastructure-agent" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
+							<a href="https://github.com/joatmon08/infrastructure-agent" class="icon alt fa-code" target="_blank"><span class="label">Demo</span></a>
 						</td>
 					</tr>
 					<tr>
