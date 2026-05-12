@@ -27,6 +27,12 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>06.01.2026</td>
+						<td>New York Tech Week</td>
+						<td>Context Engineering 101: A Practical Introduction</td>
+						<td><a href="https://partiful.com/e/RYqG93QLhTxNOHOG7kzF">New York, NY</a></td>
+					</tr>
+					<tr>
 						<td>06.03.2026</td>
 						<td>Women Who Code Summit</td>
 						<td>From Platform Engineering to AI Automation: Building Infrastructure for Agent Systems</td>
