@@ -37,6 +37,8 @@ nav-menu: true
                     <h3>Articles</h3>
                     <p>Below are additional articles published outside of my personal blog.</p>
                     <ul class="unordered">
+                        <li><a href="https://platformengineering.com/features/platform-ai-or-security-examining-a-separation-of-concerns/" target="_blank"><span
+                                    class="label">Platform, AI, or Security? Examining a Separation of Concerns</span></a></li>
                         <li><a href="https://substack.com/home/post/p-187874131" target="_blank"><span
                                     class="label">AI agent authorization with A2A protocol and HashiCorp Vault</span></a></li>
                         <li><a href="https://www.hashicorp.com/en/blog/terraform-security-5-foundational-practices" target="_blank"><span

@@ -26,12 +26,12 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
+					<!-- <tr>
 						<td>06.03.2026</td>
 						<td>Women Who Code Summit</td>
 						<td>From Platform Engineering to AI Automation: Building Infrastructure for Agent Systems</td>
 						<td><a href="https://events.womenwhocode.com/2026/agenda?speakers=3914404">New York, NY</a></td>
-					</tr>
+					</tr> -->
 				</tbody>
 			</table>
 		</div>
@@ -54,6 +54,14 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
+					<tr>
+						<td>06.03.2026</td>
+						<td>Women Who Code Summit</td>
+						<td>From Platform Engineering to AI Automation: Building Infrastructure for Agent Systems</td>
+						<td>
+							<a href="https://speakerdeck.com/joatmon08/from-platform-engineering-to-ai-automation-building-infrastructure-for-agent-systems" class="icon alt fa-file-powerpoint-o" target="_blank"><span class="label">Slides</span></a>
+						</td>
+					</tr>
 					<tr>
 						<td>06.01.2026</td>
 						<td>New York Tech Week</td>
