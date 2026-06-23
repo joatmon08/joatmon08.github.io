@@ -14,9 +14,26 @@
       </div>
     </section>
 
-    {% include render-section.html id="about" file="content/about.md" %}
-    {% include render-section.html id="writing" file="content/writing.md" %}
-    {% include render-section.html id="speaking" file="content/talks.md" %}
+    <section id="about" class="section">
+      <div class="section-inner">
+        {% capture md %}{% include content/about.md %}{% endcapture %}
+        {{ md | markdownify }}
+      </div>
+    </section>
+
+    <section id="writing" class="section">
+      <div class="section-inner">
+        {% capture md %}{% include content/writing.md %}{% endcapture %}
+        {{ md | markdownify }}
+      </div>
+    </section>
+
+    <section id="speaking" class="section">
+      <div class="section-inner">
+        {% capture md %}{% include content/talks.md %}{% endcapture %}
+        {{ md | markdownify }}
+      </div>
+    </section>
   </main>
 
   {% include footer.html %}
