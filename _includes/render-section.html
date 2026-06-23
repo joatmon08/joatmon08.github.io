@@ -1,0 +1,6 @@
+<section id="{{ include.id }}" class="section" aria-labelledby="{{ include.id }}-heading">
+  <div class="section-inner">
+    {% capture md %}{% include {{ include.file }} %}{% endcapture %}
+    {{ md | markdownify }}
+  </div>
+</section>

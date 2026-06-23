@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+  <div id="top"></div>
+  {% include header.html %}
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-heading">
+      <div class="hero-inner">
+        <h1 id="hero-heading">{{ site.title }}</h1>
+        <p class="tagline">{{ site.description }}</p>
+        {% include social-links.html %}
+      </div>
+    </section>
+
+    {% include render-section.html id="about" file="content/about.md" %}
+    {% include render-section.html id="writing" file="content/writing.md" %}
+    {% include render-section.html id="speaking" file="content/talks.md" %}
+  </main>
+
+  {% include footer.html %}
+</body>
+</html>

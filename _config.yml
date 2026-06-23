@@ -1,29 +1,27 @@
-# site settings
 title: Rosemary Wang
-subtitle: ''
 description: she/her. infra engineer. cloud explorer.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author: Rosemary Wang
+url: https://joatmon08.com
+baseurl: ""
 
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
-
-# social settings
-500px_url:
-facebook_url:
-github_url: https://github.com/joatmon08
-gitlab_url:
-googleplus_url:
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/rosemarywang/
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/joatmon08
-
-# build settings
 markdown: kramdown
 
 sass:
   style: compressed
+
+# Social links
+x_url: https://x.com/joatmon08
+bluesky_url: https://bsky.app/profile/joatmon08.com
+github_url: https://github.com/joatmon08
+linkedin_url: https://www.linkedin.com/in/rosemarywang/
+devto_url: https://dev.to/joatmon08
+medium_url: https://medium.com/@joatmon08
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - scripts/
+  - .bundle/
+  - vendor/
+  - preview.sh
