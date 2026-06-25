@@ -1,16 +1,12 @@
 # Speaking
 
-<!--
 ### Upcoming
-
-Add rows here when you have scheduled talks, then remove this comment wrapper.
 
 | Date | Event | Location |
 |------|-------|----------|
-| MM.DD.YYYY | Conference — Talk title | [City, ST](https://example.com) |
+| 10.26.2026 | IBM TechXchange | [Atlanta, GA](https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1775744429542001WK1f) |
 
--->
-
+--
 ### Past Talks
 
 | Date | Event | Links |
