@@ -13,7 +13,7 @@
 |------|-------|-------|
 | 06.03.2026 | Women Who Code Summit — From Platform Engineering to AI Automation: Building Infrastructure for Agent Systems | [Slides](https://speakerdeck.com/joatmon08/from-platform-engineering-to-ai-automation-building-infrastructure-for-agent-systems) |
 | 06.01.2026 | New York Tech Week — Context Engineering 101: A Practical Introduction | [Slides](https://speakerdeck.com/joatmon08/context-engineering-101-a-practical-introduction) |
-| 04.30.2026 | IBM Dev Day: Bob Edition — From Zero to Infrastructure as Code Expert | [Demo](https://github.com/joatmon08/platform-infrastructure-skills) · [Recording](https://ibmdevday-bob.bemyapp.com/) |
+| 04.30.2026 | IBM Dev Day: Bob Edition — From Zero to Infrastructure as Code Expert | [Demo](https://github.com/joatmon08/platform-infrastructure-skills) · [Recording](https://youtu.be/Wt6xvA0lLW0?si=plmH89cu6pNfJwn5) |
 | 01.26.2026 | IBM Dev Day: AI Demystified — A Platform Engineer’s Journey to AI Automation | [Demo](https://github.com/joatmon08/infrastructure-agent) |
 | 04.23.2025 | Microsoft Reactor — Fireside Chat for scaling Terraform in regulated Industries | [Recording](https://www.youtube.com/watch?v=X_ffIpa_wCI) |
 | 04.16.2025 | Ask an OpenShift Admin — Ep 150 \\| HashiCorp Terraform & Vault AMA | [Recording](https://www.youtube.com/watch?v=M8QobMco_Ws) |
